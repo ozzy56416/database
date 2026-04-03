@@ -1,0 +1,2006 @@
+[
+    {
+        "index": 0,
+        "truth": "Acara tv apa yang paling memuakkan? Berikan alasannya!"
+    },
+    {
+        "index": 1,
+        "truth": "Apa baju yang (menurutmu) paling jelek yang pernah kamu pakai, dan kapan kamu memakainya?"
+    },
+    {
+        "index": 2,
+        "truth": "Apa binatang patronus yang cocok untuk kamu menurutmu?"
+    },
+    {
+        "index": 3,
+        "truth": "Apa hal paling buruk yang pernah kamu bilang tentang temenmu di belakang?"
+    },
+    {
+        "index": 4,
+        "truth": "Apa hal paling memalukan dari dirimu yang masih kamu ingat sampai sekarang?"
+    },
+    {
+        "index": 5,
+        "truth": "Apa hal paling memalukan yang pernah dilakukan temanmu di depan umum?"
+    },
+    {
+        "index": 6,
+        "truth": "Apa hal pertama yang kamu perhatikan saat melihat orang lawan jenis?"
+    },
+    {
+        "index": 7,
+        "truth": "Apa hal pertama yang terlintas di pikiranmu setiap kali melihat cermin?"
+    },
+    {
+        "index": 8,
+        "truth": "Apa hal terbodoh yang pernah kamu lakukan di depan orang banyak?"
+    },
+    {
+        "index": 9,
+        "truth": "Apa ketakutan terbesar kamu yang jarang orang tahu?"
+    },
+    {
+        "index": 10,
+        "truth": "Apa mimpi terburuk yang pernah kamu alami sampai bangun ketakutan?"
+    },
+    {
+        "index": 11,
+        "truth": "Apa mimpi terkonyol yang masih kamu ingat sampai sekarang?"
+    },
+    {
+        "index": 12,
+        "truth": "Apa pekerjaan paling konyol yang pernah kamu bayangkan sebagai masa depanmu?"
+    },
+    {
+        "index": 13,
+        "truth": "Apa sifat terburukmu menurut pendapatmu sendiri?"
+    },
+    {
+        "index": 14,
+        "truth": "Apa satu sifat yang paling ingin kamu ubah dari dirimu sendiri?"
+    },
+    {
+        "index": 15,
+        "truth": "Apa satu sifat temanmu yang paling ingin kamu ubah?"
+    },
+    {
+        "index": 16,
+        "truth": "Apa yang akan kamu lakukan kalau pacarmu bilang hidung atau jarimu jelek?"
+    },
+    {
+        "index": 17,
+        "truth": "Apa yang biasanya kamu pikirkan sebelum tidur malam?"
+    },
+    {
+        "index": 18,
+        "truth": "Apakah hal yang menurutmu paling menonjol dari dirimu?"
+    },
+    {
+        "index": 19,
+        "truth": "Bagian tubuh temanmu mana yang paling kamu suka dan ingin kamu punya juga?"
+    },
+    {
+        "index": 20,
+        "truth": "Bagian tubuhmu sendiri mana yang paling kamu benci dan kenapa?"
+    },
+    {
+        "index": 21,
+        "truth": "Dari semua kelas atau jurusan di sekolah/kampus, kelas mana yang paling ingin kamu masuki dan yang paling ingin kamu hindari?"
+    },
+    {
+        "index": 22,
+        "truth": "Deskripsikan teman terdekatmu dengan tiga kata saja."
+    },
+    {
+        "index": 23,
+        "truth": "Deskripsikan dirimu sendiri dalam satu kata saja."
+    },
+    {
+        "index": 24,
+        "truth": "Film atau lagu apa yang pernah membuat kamu menangis?"
+    },
+    {
+        "index": 25,
+        "truth": "Hal apa yang kamu rahasiakan sampai sekarang dan belum pernah diceritakan ke siapapun?"
+    },
+    {
+        "index": 26,
+        "truth": "Hal paling romantis apa yang pernah dilakukan atau diberikan seseorang lawan jenis kepadamu?"
+    },
+    {
+        "index": 27,
+        "truth": "Hal-hal menjijikan apa yang pernah kamu alami dalam hidup?"
+    },
+    {
+        "index": 28,
+        "truth": "Jika kamu lahir kembali dan harus jadi salah satu temanmu, siapa yang akan kamu pilih?"
+    },
+    {
+        "index": 29,
+        "truth": "Jika punya kekuatan super, apa yang paling ingin kamu lakukan pertama kali?"
+    },
+    {
+        "index": 30,
+        "truth": "Jika sebentar lagi kiamat, apa yang akan kamu lakukan di 24 jam terakhir?"
+    },
+    {
+        "index": 31,
+        "truth": "Kalau disuruh operasi plastik dan harus tiru wajah teman sekelas, wajah siapa yang akan kamu pilih?"
+    },
+    {
+        "index": 32,
+        "truth": "Kamu pernah mencuri sesuatu gak? Apa itu?"
+    },
+    {
+        "index": 33,
+        "truth": "Kamu takut mati? Kenapa?"
+    },
+    {
+        "index": 34,
+        "truth": "Kapan terakhir kali kamu menangis dan apa penyebabnya?"
+    },
+    {
+        "index": 35,
+        "truth": "Kemampuan spesial atau keahlian unik yang kamu miliki apa?"
+    },
+    {
+        "index": 36,
+        "truth": "Kok bisa kamu suka sama orang yang sekarang kamu sukai?"
+    },
+    {
+        "index": 37,
+        "truth": "Menurutmu, apa sifat baik teman terdekatmu yang dia sendiri tidak sadari?"
+    },
+    {
+        "index": 38,
+        "truth": "Orang seperti apa yang ingin kamu nikahi suatu saat nanti?"
+    },
+    {
+        "index": 39,
+        "truth": "Pekerjaan paling ngenes menurutmu cocok untuk teman di sebelah kananmu?"
+    },
+    {
+        "index": 40,
+        "truth": "Pengen tukeran hidup sehari dengan siapa di antara temanmu dan kenapa?"
+    },
+    {
+        "index": 41,
+        "truth": "Pernahkah kamu diam-diam berharap hubungan seseorang dengan pacarnya putus? Siapa?"
+    },
+    {
+        "index": 42,
+        "truth": "Pilih PACAR atau TEMAN SELAMANYA? Berikan alasannya!"
+    },
+    {
+        "index": 43,
+        "truth": "Quote atau kata-kata mutiara apa yang paling kamu ingat dan suka?"
+    },
+    {
+        "index": 44,
+        "truth": "Rahasia apa yang belum pernah kamu ceritakan kepada teman-temanmu?"
+    },
+    {
+        "index": 45,
+        "truth": "Role model atau panutan kamu saat ini siapa?"
+    },
+    {
+        "index": 46,
+        "truth": "Siapa di antara temanmu yang menurutmu paling matre?"
+    },
+    {
+        "index": 47,
+        "truth": "Siapa di antara teman-temanmu yang potongan rambutnya paling ngenes menurutmu?"
+    },
+    {
+        "index": 48,
+        "truth": "Siapa di antara temanmu yang paling tidak fotogenik dan mukanya lucu saat ketawa?"
+    },
+    {
+        "index": 49,
+        "truth": "Siapa mantan terindahmu dan kenapa kalian putus?"
+    },
+    {
+        "index": 50,
+        "truth": "Siapa nama artis yang pernah kamu cium fotonya diam-diam?"
+    },
+    {
+        "index": 51,
+        "truth": "Siapa nama guru lawan jenis yang pernah kamu sukai diam-diam?"
+    },
+    {
+        "index": 52,
+        "truth": "Siapa nama mantan pacar temanmu yang pernah kamu sukai diam-diam?"
+    },
+    {
+        "index": 53,
+        "truth": "Siapa nama orang lawan jenis yang menurutmu akan asyik kalau dijadikan pacar?"
+    },
+    {
+        "index": 54,
+        "truth": "Siapa nama orang yang kamu benci tapi kamu rasa orang itu suka sama kamu?"
+    },
+    {
+        "index": 55,
+        "truth": "Siapa nama orang yang pernah kamu ikuti diam-diam di media sosial?"
+    },
+    {
+        "index": 56,
+        "truth": "Siapa orang lawan jenis yang paling sering terlintas di pikiranmu akhir-akhir ini?"
+    },
+    {
+        "index": 57,
+        "truth": "Siapa orang yang paling menjengkelkan di antara teman-temanmu dan alasannya?"
+    },
+    {
+        "index": 58,
+        "truth": "Siapa di antara temanmu yang menurutmu paling butuh make-over?"
+    },
+    {
+        "index": 59,
+        "truth": "Siapa yang paling mendekati tipe pasangan idealmu di antara orang-orang di sini?"
+    },
+    {
+        "index": 60,
+        "truth": "Apa lagu yang paling sering kamu nyanyikan sendirian di kamar mandi?"
+    },
+    {
+        "index": 61,
+        "truth": "Apa makanan yang paling kamu benci tapi orang tua kamu selalu suruh makan?"
+    },
+    {
+        "index": 62,
+        "truth": "Apa kebiasaan buruk yang kamu coba sembunyikan dari orang lain?"
+    },
+    {
+        "index": 63,
+        "truth": "Apa hal paling konyol yang kamu lakukan karena crush?"
+    },
+    {
+        "index": 64,
+        "truth": "Apa rahasia kecil yang kamu simpan dari orang tua?"
+    },
+    {
+        "index": 65,
+        "truth": "Siapa orang yang paling kamu iri di antara teman-temanmu?"
+    },
+    {
+        "index": 66,
+        "truth": "Apa foto di galeri HP-mu yang paling memalukan?"
+    },
+    {
+        "index": 67,
+        "truth": "Apa yang paling kamu sesali dalam hidup sampai sekarang?"
+    },
+    {
+        "index": 68,
+        "truth": "Apa tipe pacar yang kamu inginkan tapi belum pernah kamu dapatkan?"
+    },
+    {
+        "index": 69,
+        "truth": "Apa kebohongan terkecil yang pernah kamu katakan ke orang tua?"
+    },
+    {
+        "index": 70,
+        "truth": "Siapa yang paling sering kamu chat tapi pura-pura sibuk kalau dibales?"
+    },
+    {
+        "index": 71,
+        "truth": "Apa mimpi masa depanmu yang paling kamu takut gagal?"
+    },
+    {
+        "index": 72,
+        "truth": "Apa hal yang paling bikin kamu insecure tentang dirimu sendiri?"
+    },
+    {
+        "index": 73,
+        "truth": "Apa lagu yang selalu kamu putar kalau lagi sedih?"
+    },
+    {
+        "index": 74,
+        "truth": "Siapa orang yang pernah bikin kamu deg-degan hanya dengan chat biasa?"
+    },
+    {
+        "index": 75,
+        "truth": "Apa kebiasaan aneh yang kamu lakukan saat sendirian?"
+    },
+    {
+        "index": 76,
+        "truth": "Apa yang paling kamu takutkan orang lain tahu tentang kamu?"
+    },
+    {
+        "index": 77,
+        "truth": "Siapa teman yang kamu anggap paling bisa dipercaya?"
+    },
+    {
+        "index": 78,
+        "truth": "Apa hal paling romantis yang ingin kamu lakukan untuk orang yang kamu suka?"
+    },
+    {
+        "index": 79,
+        "truth": "Apa makanan yang kamu makan diam-diam di malam hari?"
+    },
+    {
+        "index": 80,
+        "truth": "Apa yang kamu lakukan kalau crush-mu tiba-tiba chat sekarang?"
+    },
+    {
+        "index": 81,
+        "truth": "Apa rahasia yang kamu simpan dari sahabat terbaikmu?"
+    },
+    {
+        "index": 82,
+        "truth": "Siapa yang paling kamu pikir cocok jadi pasanganmu di antara teman-teman?"
+    },
+    {
+        "index": 83,
+        "truth": "Apa hal yang paling bikin kamu marah tapi kamu tahan?"
+    },
+    {
+        "index": 84,
+        "truth": "Apa yang kamu lakukan saat kamu lagi kesepian?"
+    },
+    {
+        "index": 85,
+        "truth": "Siapa orang yang pernah bikin kamu merasa tidak cukup baik?"
+    },
+    {
+        "index": 86,
+        "truth": "Apa mimpi yang kamu punya sejak kecil tapi belum tercapai?"
+    },
+    {
+        "index": 87,
+        "truth": "Apa kebiasaan buruk yang kamu coba hentikan tapi selalu gagal?"
+    },
+    {
+        "index": 88,
+        "truth": "Siapa yang paling sering kamu ceritain masalahmu?"
+    },
+    {
+        "index": 89,
+        "truth": "Apa hal yang paling kamu banggakan dari dirimu?"
+    },
+    {
+        "index": 90,
+        "truth": "Apa yang kamu lakukan kalau kamu tahu crush-mu suka sama orang lain?"
+    },
+    {
+        "index": 91,
+        "truth": "Apa lagu yang paling menggambarkan hidupmu saat ini?"
+    },
+    {
+        "index": 92,
+        "truth": "Siapa yang paling kamu harap baca chat-mu tapi tidak dibalas?"
+    },
+    {
+        "index": 93,
+        "truth": "Apa hal paling lucu yang pernah kamu lakukan karena grogi?"
+    },
+    {
+        "index": 94,
+        "truth": "Apa yang paling kamu inginkan dalam hubungan pacaran?"
+    },
+    {
+        "index": 95,
+        "truth": "Siapa orang yang kamu anggap paling pintar di antara teman-teman?"
+    },
+    {
+        "index": 96,
+        "truth": "Apa kebiasaan yang kamu lakukan setiap pagi?"
+    },
+    {
+        "index": 97,
+        "truth": "Apa yang paling bikin kamu bahagia saat ini?"
+    },
+    {
+        "index": 98,
+        "truth": "Siapa yang paling kamu rindukan akhir-akhir ini?"
+    },
+    {
+        "index": 99,
+        "truth": "Apa hal yang paling kamu sesali dari masa lalu?"
+    },
+    {
+        "index": 100,
+        "truth": "Apa tipe kencan pertama yang kamu inginkan?"
+    },
+    {
+        "index": 101,
+        "truth": "Apa yang paling kamu takutkan tentang masa depan?"
+    },
+    {
+        "index": 102,
+        "truth": "Siapa yang paling kamu percaya untuk menyimpan rahasiamu?"
+    },
+    {
+        "index": 103,
+        "truth": "Apa hal yang paling sering kamu bohongi ke orang tua?"
+    },
+    {
+        "index": 104,
+        "truth": "Apa lagu yang selalu kamu nyanyikan saat lagi senang?"
+    },
+    {
+        "index": 105,
+        "truth": "Siapa crush-mu saat ini (bisa teman atau bukan)?"
+    },
+    {
+        "index": 106,
+        "truth": "Apa yang paling kamu suka dari diri kamu sendiri?"
+    },
+    {
+        "index": 107,
+        "truth": "Apa hal paling memalukan yang pernah terjadi di chat?"
+    },
+    {
+        "index": 108,
+        "truth": "Siapa yang paling kamu anggap sebagai sahabat sejati?"
+    },
+    {
+        "index": 109,
+        "truth": "Apa mimpi yang ingin kamu wujudkan tahun ini?"
+    },
+    {
+        "index": 110,
+        "truth": "Apa yang kamu lakukan saat kamu marah besar?"
+    },
+    {
+        "index": 111,
+        "truth": "Siapa orang yang paling sering bikin kamu ketawa?"
+    },
+    {
+        "index": 112,
+        "truth": "Apa hal yang paling kamu hindari di kehidupan sehari-hari?"
+    },
+    {
+        "index": 113,
+        "truth": "Apa yang paling kamu harapkan dari teman-temanmu?"
+    },
+    {
+        "index": 114,
+        "truth": "Siapa yang paling kamu kagumi di sekolah/kampus?"
+    },
+    {
+        "index": 115,
+        "truth": "Apa kebiasaan yang kamu lakukan saat stres?"
+    },
+    {
+        "index": 116,
+        "truth": "Apa yang paling kamu suka dari hobi kamu?"
+    },
+    {
+        "index": 117,
+        "truth": "Siapa yang paling kamu inginkan jadi teman dekat?"
+    },
+    {
+        "index": 118,
+        "truth": "Apa hal yang paling bikin kamu merasa dicintai?"
+    },
+    {
+        "index": 119,
+        "truth": "Apa yang paling kamu sesali dari tahun lalu?"
+    },
+    {
+        "index": 120,
+        "truth": "Siapa yang paling sering kamu pikirkan setiap hari?"
+    },
+    {
+        "index": 121,
+        "truth": "Apa lagu yang paling menggambarkan perasaanmu sekarang?"
+    },
+    {
+        "index": 122,
+        "truth": "Apa yang paling kamu takutkan orang lain pikirkan tentangmu?"
+    },
+    {
+        "index": 123,
+        "truth": "Siapa yang paling kamu harap datang ke acara pentingmu?"
+    },
+    {
+        "index": 124,
+        "truth": "Apa hal paling lucu yang pernah kamu lakukan di depan crush?"
+    },
+    {
+        "index": 125,
+        "truth": "Apa yang paling kamu inginkan di tahun ini?"
+    },
+    {
+        "index": 126,
+        "truth": "Siapa yang paling kamu anggap sebagai panutan?"
+    },
+    {
+        "index": 127,
+        "truth": "Apa kebiasaan buruk yang kamu ingin hentikan?"
+    },
+    {
+        "index": 128,
+        "truth": "Apa yang paling bikin kamu bahagia saat sendirian?"
+    },
+    {
+        "index": 129,
+        "truth": "Siapa yang paling kamu rindukan dari masa lalu?"
+    },
+    {
+        "index": 130,
+        "truth": "Apa hal yang paling kamu banggakan dari keluargamu?"
+    },
+    {
+        "index": 131,
+        "truth": "Apa yang paling kamu lakukan saat bosan?"
+    },
+    {
+        "index": 132,
+        "truth": "Siapa yang paling sering bikin kamu kesal tapi tetap kamu sayang?"
+    },
+    {
+        "index": 133,
+        "truth": "Apa mimpi yang ingin kamu capai sebelum umur 30?"
+    },
+    {
+        "index": 134,
+        "truth": "Apa yang paling kamu suka dari teman terdekatmu?"
+    },
+    {
+        "index": 135,
+        "truth": "Apa hal yang paling kamu hindari bicarakan dengan orang tua?"
+    },
+    {
+        "index": 136,
+        "truth": "Siapa yang paling kamu percaya untuk curhat?"
+    },
+    {
+        "index": 137,
+        "truth": "Apa lagu yang selalu kamu dengar saat lagi galau?"
+    },
+    {
+        "index": 138,
+        "truth": "Apa yang paling kamu inginkan dari pacar ideal?"
+    },
+    {
+        "index": 139,
+        "truth": "Siapa yang paling sering kamu chat setiap hari?"
+    },
+    {
+        "index": 140,
+        "truth": "Apa hal paling memalukan yang pernah terjadi di sekolah?"
+    },
+    {
+        "index": 141,
+        "truth": "Apa yang paling bikin kamu merasa spesial?"
+    },
+    {
+        "index": 142,
+        "truth": "Siapa yang paling kamu harap balas chat-mu cepat?"
+    },
+    {
+        "index": 143,
+        "truth": "Apa kebiasaan yang kamu lakukan setiap malam sebelum tidur?"
+    },
+    {
+        "index": 144,
+        "truth": "Apa yang paling kamu sesali dari hubungan masa lalu?"
+    },
+    {
+        "index": 145,
+        "truth": "Siapa yang paling kamu anggap lucu di antara teman-teman?"
+    },
+    {
+        "index": 146,
+        "truth": "Apa hal yang paling kamu suka dari dirimu?"
+    },
+    {
+        "index": 147,
+        "truth": "Apa yang paling kamu lakukan saat kamu senang sekali?"
+    },
+    {
+        "index": 148,
+        "truth": "Siapa yang paling sering bikin kamu tersenyum?"
+    },
+    {
+        "index": 149,
+        "truth": "Apa mimpi yang ingin kamu wujudkan bersama teman-teman?"
+    },
+    {
+        "index": 150,
+        "truth": "Apa yang paling kamu takutkan tentang hubungan?"
+    },
+    {
+        "index": 151,
+        "truth": "Siapa yang paling kamu anggap sebagai kakak/adik?"
+    },
+    {
+        "index": 152,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu marah?"
+    },
+    {
+        "index": 153,
+        "truth": "Apa yang paling kamu harapkan dari hidupmu 5 tahun lagi?"
+    },
+    {
+        "index": 154,
+        "truth": "Siapa yang paling sering kamu ceritain hal-hal kecil?"
+    },
+    {
+        "index": 155,
+        "truth": "Apa hal yang paling bikin kamu merasa dicintai oleh keluarga?"
+    },
+    {
+        "index": 156,
+        "truth": "Apa yang paling kamu lakukan saat kamu bosan di kelas?"
+    },
+    {
+        "index": 157,
+        "truth": "Siapa yang paling kamu kagumi dari luar sekolah?"
+    },
+    {
+        "index": 158,
+        "truth": "Apa lagu yang paling menggambarkan persahabatanmu?"
+    },
+    {
+        "index": 159,
+        "truth": "Apa yang paling kamu takutkan orang lain lihat dari dirimu?"
+    },
+    {
+        "index": 160,
+        "truth": "Siapa yang paling kamu harap jadi teman seumur hidup?"
+    },
+    {
+        "index": 161,
+        "truth": "Apa hal paling lucu yang pernah kamu lakukan karena salah paham?"
+    },
+    {
+        "index": 162,
+        "truth": "Apa yang paling kamu inginkan di hari ulang tahunmu?"
+    },
+    {
+        "index": 163,
+        "truth": "Siapa yang paling sering bikin kamu mikir panjang?"
+    },
+    {
+        "index": 164,
+        "truth": "Apa kebiasaan buruk yang kamu miliki sejak kecil?"
+    },
+    {
+        "index": 165,
+        "truth": "Apa yang paling bikin kamu bahagia saat bersama teman-teman?"
+    },
+    {
+        "index": 166,
+        "truth": "Siapa yang paling kamu rindukan dari masa kecil?"
+    },
+    {
+        "index": 167,
+        "truth": "Apa hal yang paling kamu banggakan dari prestasimu?"
+    },
+    {
+        "index": 168,
+        "truth": "Apa yang paling kamu lakukan saat kamu sendirian di rumah?"
+    },
+    {
+        "index": 169,
+        "truth": "Siapa yang paling kamu anggap sebagai support system?"
+    },
+    {
+        "index": 170,
+        "truth": "Apa hal yang paling kamu sesali dari keputusanmu?"
+    },
+    {
+        "index": 171,
+        "truth": "Apa lagu yang selalu kamu putar saat lagi semangat?"
+    },
+    {
+        "index": 172,
+        "truth": "Siapa yang paling sering kamu ajak diskusi?"
+    },
+    {
+        "index": 173,
+        "truth": "Apa yang paling kamu takutkan tentang masa depan karier?"
+    },
+    {
+        "index": 174,
+        "truth": "Apa hal paling romantis yang pernah kamu lakukan?"
+    },
+    {
+        "index": 175,
+        "truth": "Siapa yang paling kamu percaya untuk kasih nasihat?"
+    },
+    {
+        "index": 176,
+        "truth": "Apa kebiasaan yang kamu lakukan setiap hari tanpa sadar?"
+    },
+    {
+        "index": 177,
+        "truth": "Apa yang paling kamu harapkan dari pacar di masa depan?"
+    },
+    {
+        "index": 178,
+        "truth": "Siapa yang paling sering bikin kamu merasa nyaman?"
+    },
+    {
+        "index": 179,
+        "truth": "Apa mimpi yang ingin kamu capai sebelum lulus?"
+    },
+    {
+        "index": 180,
+        "truth": "Apa hal yang paling bikin kamu insecure tentang penampilan?"
+    },
+    {
+        "index": 181,
+        "truth": "Siapa yang paling kamu anggap sebagai motivator?"
+    },
+    {
+        "index": 182,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi down?"
+    },
+    {
+        "index": 183,
+        "truth": "Apa lagu yang paling menggambarkan persahabatanmu dengan sahabat?"
+    },
+    {
+        "index": 184,
+        "truth": "Siapa yang paling kamu harap tahu perasaanmu?"
+    },
+    {
+        "index": 185,
+        "truth": "Apa hal paling lucu yang pernah terjadi di grup chat?"
+    },
+    {
+        "index": 186,
+        "truth": "Apa yang paling kamu inginkan di hidupmu saat ini?"
+    },
+    {
+        "index": 187,
+        "truth": "Siapa yang paling sering kamu ajak jalan-jalan?"
+    },
+    {
+        "index": 188,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu senang?"
+    },
+    {
+        "index": 189,
+        "truth": "Apa yang paling bikin kamu merasa bangga pada diri sendiri?"
+    },
+    {
+        "index": 190,
+        "truth": "Siapa yang paling kamu anggap sebagai keluarga kedua?"
+    },
+    {
+        "index": 191,
+        "truth": "Apa hal yang paling kamu takutkan tentang perubahan?"
+    },
+    {
+        "index": 192,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi malas?"
+    },
+    {
+        "index": 193,
+        "truth": "Siapa yang paling sering bikin kamu mikir positif?"
+    },
+    {
+        "index": 194,
+        "truth": "Apa mimpi yang ingin kamu wujudkan bersama keluarga?"
+    },
+    {
+        "index": 195,
+        "truth": "Apa hal yang paling kamu suka dari hobi baru?"
+    },
+    {
+        "index": 196,
+        "truth": "Siapa yang paling kamu harap ada di sampingmu saat susah?"
+    },
+    {
+        "index": 197,
+        "truth": "Apa kebiasaan buruk yang kamu miliki di HP?"
+    },
+    {
+        "index": 198,
+        "truth": "Apa yang paling bikin kamu bahagia di hari biasa?"
+    },
+    {
+        "index": 199,
+        "truth": "Siapa yang paling kamu rindukan dari teman lama?"
+    },
+    {
+        "index": 200,
+        "truth": "Apa hal yang paling kamu banggakan dari sekolah/kampus?"
+    },
+    {
+        "index": 201,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi capek?"
+    },
+    {
+        "index": 202,
+        "truth": "Siapa yang paling sering bikin kamu ketawa sampai perut sakit?"
+    },
+    {
+        "index": 203,
+        "truth": "Apa hal yang paling kamu hindari di hubungan pertemanan?"
+    },
+    {
+        "index": 204,
+        "truth": "Apa yang paling kamu harapkan dari dirimu sendiri di masa depan?"
+    },
+    {
+        "index": 205,
+        "truth": "Siapa yang paling kamu anggap sebagai inspirasi?"
+    },
+    {
+        "index": 206,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi excited?"
+    },
+    {
+        "index": 207,
+        "truth": "Apa yang paling bikin kamu merasa dicintai oleh teman?"
+    },
+    {
+        "index": 208,
+        "truth": "Siapa yang paling sering kamu curhat masalah kecil?"
+    },
+    {
+        "index": 209,
+        "truth": "Apa mimpi yang ingin kamu capai sebelum umur 25?"
+    },
+    {
+        "index": 210,
+        "truth": "Apa hal yang paling kamu takutkan tentang kegagalan?"
+    },
+    {
+        "index": 211,
+        "truth": "Siapa yang paling kamu percaya untuk kasih saran cinta?"
+    },
+    {
+        "index": 212,
+        "truth": "Apa kebiasaan yang kamu lakukan setiap akhir pekan?"
+    },
+    {
+        "index": 213,
+        "truth": "Apa yang paling kamu inginkan di hubungan pertemanan?"
+    },
+    {
+        "index": 214,
+        "truth": "Siapa yang paling sering bikin kamu merasa aman?"
+    },
+    {
+        "index": 215,
+        "truth": "Apa hal paling lucu yang pernah kamu lakukan di depan kelas?"
+    },
+    {
+        "index": 216,
+        "truth": "Apa yang paling kamu harapkan di tahun baru?"
+    },
+    {
+        "index": 217,
+        "truth": "Siapa yang paling sering bikin kamu mikir ulang keputusan?"
+    },
+    {
+        "index": 218,
+        "truth": "Apa kebiasaan buruk yang kamu miliki saat belajar?"
+    },
+    {
+        "index": 219,
+        "truth": "Apa yang paling bikin kamu bahagia saat bersama keluarga?"
+    },
+    {
+        "index": 220,
+        "truth": "Siapa yang paling kamu rindukan dari masa SD/SMP?"
+    },
+    {
+        "index": 221,
+        "truth": "Apa hal yang paling kamu banggakan dari temanmu?"
+    },
+    {
+        "index": 222,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi bingung?"
+    },
+    {
+        "index": 223,
+        "truth": "Siapa yang paling sering bikin kamu tersenyum tanpa alasan?"
+    },
+    {
+        "index": 224,
+        "truth": "Apa hal yang paling kamu takutkan tentang pertemanan?"
+    },
+    {
+        "index": 225,
+        "truth": "Apa yang paling kamu harapkan dari diri kamu di masa depan?"
+    },
+    {
+        "index": 226,
+        "truth": "Siapa yang paling kamu anggap sebagai sahabat sejati?"
+    },
+    {
+        "index": 227,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi santai?"
+    },
+    {
+        "index": 228,
+        "truth": "Apa yang paling bikin kamu merasa bangga pada teman-temanmu?"
+    },
+    {
+        "index": 229,
+        "truth": "Siapa yang paling sering kamu ajak diskusi tentang masa depan?"
+    },
+    {
+        "index": 230,
+        "truth": "Apa hal yang paling kamu takutkan tentang perpisahan?"
+    },
+    {
+        "index": 231,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi senang sekali?"
+    },
+    {
+        "index": 232,
+        "truth": "Siapa yang paling sering bikin kamu merasa dihargai?"
+    },
+    {
+        "index": 233,
+        "truth": "Apa mimpi yang ingin kamu wujudkan bersama sahabat?"
+    },
+    {
+        "index": 234,
+        "truth": "Apa hal yang paling kamu suka dari diri kamu di masa sekarang?"
+    },
+    {
+        "index": 235,
+        "truth": "Siapa yang paling kamu harap ada di hari-hari pentingmu?"
+    },
+    {
+        "index": 236,
+        "truth": "Apa kebiasaan buruk yang kamu miliki di media sosial?"
+    },
+    {
+        "index": 237,
+        "truth": "Apa yang paling bikin kamu bahagia di hari biasa?"
+    },
+    {
+        "index": 238,
+        "truth": "Siapa yang paling kamu rindukan dari teman lama?"
+    },
+    {
+        "index": 239,
+        "truth": "Apa hal yang paling kamu banggakan dari sekolah/kampusmu?"
+    },
+    {
+        "index": 240,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi capek mental?"
+    },
+    {
+        "index": 241,
+        "truth": "Siapa yang paling sering bikin kamu ketawa sampai perut sakit?"
+    },
+    {
+        "index": 242,
+        "truth": "Apa hal yang paling kamu hindari di kehidupan sosial?"
+    },
+    {
+        "index": 243,
+        "truth": "Apa yang paling kamu harapkan dari dirimu sendiri tahun ini?"
+    },
+    {
+        "index": 244,
+        "truth": "Siapa yang paling kamu anggap sebagai inspirasi hidup?"
+    },
+    {
+        "index": 245,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi excited?"
+    },
+    {
+        "index": 246,
+        "truth": "Apa yang paling bikin kamu merasa dicintai oleh teman dekat?"
+    },
+    {
+        "index": 247,
+        "truth": "Siapa yang paling sering kamu curhat masalah sehari-hari?"
+    },
+    {
+        "index": 248,
+        "truth": "Apa mimpi yang ingin kamu capai sebelum lulus sekolah/kampus?"
+    },
+    {
+        "index": 249,
+        "truth": "Apa hal yang paling kamu takutkan tentang penampilanmu?"
+    },
+    {
+        "index": 250,
+        "truth": "Siapa yang paling kamu anggap sebagai motivator utama?"
+    },
+    {
+        "index": 251,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi down berat?"
+    },
+    {
+        "index": 252,
+        "truth": "Apa lagu yang paling menggambarkan persahabatanmu?"
+    },
+    {
+        "index": 253,
+        "truth": "Siapa yang paling kamu harap tahu perasaanmu saat ini?"
+    },
+    {
+        "index": 254,
+        "truth": "Apa hal paling lucu yang pernah terjadi di grup chat kelas?"
+    },
+    {
+        "index": 255,
+        "truth": "Apa yang paling kamu inginkan di hidupmu saat ini?"
+    },
+    {
+        "index": 256,
+        "truth": "Siapa yang paling sering kamu ajak jalan-jalan santai?"
+    },
+    {
+        "index": 257,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi senang?"
+    },
+    {
+        "index": 258,
+        "truth": "Apa yang paling bikin kamu merasa bangga pada diri sendiri?"
+    },
+    {
+        "index": 259,
+        "truth": "Siapa yang paling kamu anggap sebagai keluarga kedua?"
+    },
+    {
+        "index": 260,
+        "truth": "Apa hal yang paling kamu takutkan tentang perubahan hidup?"
+    },
+    {
+        "index": 261,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi malas belajar?"
+    },
+    {
+        "index": 262,
+        "truth": "Siapa yang paling sering bikin kamu mikir positif?"
+    },
+    {
+        "index": 263,
+        "truth": "Apa mimpi yang ingin kamu wujudkan bersama keluarga?"
+    },
+    {
+        "index": 264,
+        "truth": "Apa hal yang paling kamu suka dari hobi terbaru?"
+    },
+    {
+        "index": 265,
+        "truth": "Siapa yang paling kamu harap ada di sampingmu saat susah?"
+    },
+    {
+        "index": 266,
+        "truth": "Apa kebiasaan buruk yang kamu miliki di HP?"
+    },
+    {
+        "index": 267,
+        "truth": "Apa yang paling bikin kamu bahagia di hari biasa?"
+    },
+    {
+        "index": 268,
+        "truth": "Siapa yang paling kamu rindukan dari teman lama?"
+    },
+    {
+        "index": 269,
+        "truth": "Apa hal yang paling kamu banggakan dari sekolah/kampus?"
+    },
+    {
+        "index": 270,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi capek mental?"
+    },
+    {
+        "index": 271,
+        "truth": "Siapa yang paling sering bikin kamu ketawa sampai perut sakit?"
+    },
+    {
+        "index": 272,
+        "truth": "Apa hal yang paling kamu hindari di kehidupan sosial?"
+    },
+    {
+        "index": 273,
+        "truth": "Apa yang paling kamu harapkan dari dirimu sendiri tahun ini?"
+    },
+    {
+        "index": 274,
+        "truth": "Siapa yang paling kamu anggap sebagai inspirasi hidup?"
+    },
+    {
+        "index": 275,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi excited?"
+    },
+    {
+        "index": 276,
+        "truth": "Apa yang paling bikin kamu merasa dicintai oleh teman dekat?"
+    },
+    {
+        "index": 277,
+        "truth": "Siapa yang paling sering kamu curhat masalah sehari-hari?"
+    },
+    {
+        "index": 278,
+        "truth": "Apa mimpi yang ingin kamu capai sebelum lulus?"
+    },
+    {
+        "index": 279,
+        "truth": "Apa hal yang paling kamu takutkan tentang penampilanmu?"
+    },
+    {
+        "index": 280,
+        "truth": "Siapa yang paling kamu anggap sebagai motivator utama?"
+    },
+    {
+        "index": 281,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi down berat?"
+    },
+    {
+        "index": 282,
+        "truth": "Apa lagu yang paling menggambarkan persahabatanmu?"
+    },
+    {
+        "index": 283,
+        "truth": "Siapa yang paling kamu harap tahu perasaanmu saat ini?"
+    },
+    {
+        "index": 284,
+        "truth": "Apa hal paling lucu yang pernah terjadi di grup chat?"
+    },
+    {
+        "index": 285,
+        "truth": "Apa yang paling kamu inginkan di hidupmu saat ini?"
+    },
+    {
+        "index": 286,
+        "truth": "Siapa yang paling sering kamu ajak jalan-jalan santai?"
+    },
+    {
+        "index": 287,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi senang?"
+    },
+    {
+        "index": 288,
+        "truth": "Apa yang paling bikin kamu merasa bangga pada diri sendiri?"
+    },
+    {
+        "index": 289,
+        "truth": "Siapa yang paling kamu anggap sebagai keluarga kedua?"
+    },
+    {
+        "index": 290,
+        "truth": "Apa hal yang paling kamu takutkan tentang perubahan hidup?"
+    },
+    {
+        "index": 291,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi malas belajar?"
+    },
+    {
+        "index": 292,
+        "truth": "Siapa yang paling sering bikin kamu mikir positif?"
+    },
+    {
+        "index": 293,
+        "truth": "Apa mimpi yang ingin kamu wujudkan bersama keluarga?"
+    },
+    {
+        "index": 294,
+        "truth": "Apa hal yang paling kamu suka dari hobi terbaru?"
+    },
+    {
+        "index": 295,
+        "truth": "Siapa yang paling kamu harap ada di sampingmu saat susah?"
+    },
+    {
+        "index": 296,
+        "truth": "Apa kebiasaan buruk yang kamu miliki di HP?"
+    },
+    {
+        "index": 297,
+        "truth": "Apa yang paling bikin kamu bahagia di hari biasa?"
+    },
+    {
+        "index": 298,
+        "truth": "Siapa yang paling kamu rindukan dari teman lama?"
+    },
+    {
+        "index": 299,
+        "truth": "Apa hal yang paling kamu banggakan dari sekolah/kampus?"
+    },
+    {
+        "index": 300,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi capek mental?"
+    },
+    {
+        "index": 301,
+        "truth": "Siapa yang paling sering bikin kamu ketawa sampai perut sakit?"
+    },
+    {
+        "index": 302,
+        "truth": "Apa hal yang paling kamu hindari di kehidupan sosial?"
+    },
+    {
+        "index": 303,
+        "truth": "Apa yang paling kamu harapkan dari dirimu sendiri tahun ini?"
+    },
+    {
+        "index": 304,
+        "truth": "Siapa yang paling kamu anggap sebagai inspirasi hidup?"
+    },
+    {
+        "index": 305,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi excited?"
+    },
+    {
+        "index": 306,
+        "truth": "Apa yang paling bikin kamu merasa dicintai oleh teman dekat?"
+    },
+    {
+        "index": 307,
+        "truth": "Siapa yang paling sering kamu curhat masalah sehari-hari?"
+    },
+    {
+        "index": 308,
+        "truth": "Apa mimpi yang ingin kamu capai sebelum lulus?"
+    },
+    {
+        "index": 309,
+        "truth": "Apa hal yang paling kamu takutkan tentang penampilanmu?"
+    },
+    {
+        "index": 310,
+        "truth": "Siapa yang paling kamu anggap sebagai motivator utama?"
+    },
+    {
+        "index": 311,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi down berat?"
+    },
+    {
+        "index": 312,
+        "truth": "Apa lagu yang paling menggambarkan persahabatanmu?"
+    },
+    {
+        "index": 313,
+        "truth": "Siapa yang paling kamu harap tahu perasaanmu saat ini?"
+    },
+    {
+        "index": 314,
+        "truth": "Apa hal paling lucu yang pernah terjadi di grup chat?"
+    },
+    {
+        "index": 315,
+        "truth": "Apa yang paling kamu inginkan di hidupmu saat ini?"
+    },
+    {
+        "index": 316,
+        "truth": "Siapa yang paling sering kamu ajak jalan-jalan santai?"
+    },
+    {
+        "index": 317,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi senang?"
+    },
+    {
+        "index": 318,
+        "truth": "Apa yang paling bikin kamu merasa bangga pada diri sendiri?"
+    },
+    {
+        "index": 319,
+        "truth": "Siapa yang paling kamu anggap sebagai keluarga kedua?"
+    },
+    {
+        "index": 320,
+        "truth": "Apa hal yang paling kamu takutkan tentang perubahan hidup?"
+    },
+    {
+        "index": 321,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi malas belajar?"
+    },
+    {
+        "index": 322,
+        "truth": "Siapa yang paling sering bikin kamu mikir positif?"
+    },
+    {
+        "index": 323,
+        "truth": "Apa mimpi yang ingin kamu wujudkan bersama keluarga?"
+    },
+    {
+        "index": 324,
+        "truth": "Apa hal yang paling kamu suka dari hobi terbaru?"
+    },
+    {
+        "index": 325,
+        "truth": "Siapa yang paling kamu harap ada di sampingmu saat susah?"
+    },
+    {
+        "index": 326,
+        "truth": "Apa kebiasaan buruk yang kamu miliki di HP?"
+    },
+    {
+        "index": 327,
+        "truth": "Apa yang paling bikin kamu bahagia di hari biasa?"
+    },
+    {
+        "index": 328,
+        "truth": "Siapa yang paling kamu rindukan dari teman lama?"
+    },
+    {
+        "index": 329,
+        "truth": "Apa hal yang paling kamu banggakan dari sekolah/kampus?"
+    },
+    {
+        "index": 330,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi capek mental?"
+    },
+    {
+        "index": 331,
+        "truth": "Siapa yang paling sering bikin kamu ketawa sampai perut sakit?"
+    },
+    {
+        "index": 332,
+        "truth": "Apa hal yang paling kamu hindari di kehidupan sosial?"
+    },
+    {
+        "index": 333,
+        "truth": "Apa yang paling kamu harapkan dari dirimu sendiri tahun ini?"
+    },
+    {
+        "index": 334,
+        "truth": "Siapa yang paling kamu anggap sebagai inspirasi hidup?"
+    },
+    {
+        "index": 335,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi excited?"
+    },
+    {
+        "index": 336,
+        "truth": "Apa yang paling bikin kamu merasa dicintai oleh teman dekat?"
+    },
+    {
+        "index": 337,
+        "truth": "Siapa yang paling sering kamu curhat masalah sehari-hari?"
+    },
+    {
+        "index": 338,
+        "truth": "Apa mimpi yang ingin kamu capai sebelum lulus?"
+    },
+    {
+        "index": 339,
+        "truth": "Apa hal yang paling kamu takutkan tentang penampilanmu?"
+    },
+    {
+        "index": 340,
+        "truth": "Siapa yang paling kamu anggap sebagai motivator utama?"
+    },
+    {
+        "index": 341,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi down berat?"
+    },
+    {
+        "index": 342,
+        "truth": "Apa lagu yang paling menggambarkan persahabatanmu?"
+    },
+    {
+        "index": 343,
+        "truth": "Siapa yang paling kamu harap tahu perasaanmu saat ini?"
+    },
+    {
+        "index": 344,
+        "truth": "Apa hal paling lucu yang pernah terjadi di grup chat?"
+    },
+    {
+        "index": 345,
+        "truth": "Apa yang paling kamu inginkan di hidupmu saat ini?"
+    },
+    {
+        "index": 346,
+        "truth": "Siapa yang paling sering kamu ajak jalan-jalan santai?"
+    },
+    {
+        "index": 347,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi senang?"
+    },
+    {
+        "index": 348,
+        "truth": "Apa yang paling bikin kamu merasa bangga pada diri sendiri?"
+    },
+    {
+        "index": 349,
+        "truth": "Siapa yang paling kamu anggap sebagai keluarga kedua?"
+    },
+    {
+        "index": 350,
+        "truth": "Apa hal yang paling kamu takutkan tentang perubahan hidup?"
+    },
+    {
+        "index": 351,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi malas belajar?"
+    },
+    {
+        "index": 352,
+        "truth": "Siapa yang paling sering bikin kamu mikir positif?"
+    },
+    {
+        "index": 353,
+        "truth": "Apa mimpi yang ingin kamu wujudkan bersama keluarga?"
+    },
+    {
+        "index": 354,
+        "truth": "Apa hal yang paling kamu suka dari hobi terbaru?"
+    },
+    {
+        "index": 355,
+        "truth": "Siapa yang paling kamu harap ada di sampingmu saat susah?"
+    },
+    {
+        "index": 356,
+        "truth": "Apa kebiasaan buruk yang kamu miliki di HP?"
+    },
+    {
+        "index": 357,
+        "truth": "Apa yang paling bikin kamu bahagia di hari biasa?"
+    },
+    {
+        "index": 358,
+        "truth": "Siapa yang paling kamu rindukan dari teman lama?"
+    },
+    {
+        "index": 359,
+        "truth": "Apa hal yang paling kamu banggakan dari sekolah/kampus?"
+    },
+    {
+        "index": 360,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi capek mental?"
+    },
+    {
+        "index": 361,
+        "truth": "Siapa yang paling sering bikin kamu ketawa sampai perut sakit?"
+    },
+    {
+        "index": 362,
+        "truth": "Apa hal yang paling kamu hindari di kehidupan sosial?"
+    },
+    {
+        "index": 363,
+        "truth": "Apa yang paling kamu harapkan dari dirimu sendiri tahun ini?"
+    },
+    {
+        "index": 364,
+        "truth": "Siapa yang paling kamu anggap sebagai inspirasi hidup?"
+    },
+    {
+        "index": 365,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi excited?"
+    },
+    {
+        "index": 366,
+        "truth": "Apa yang paling bikin kamu merasa dicintai oleh teman dekat?"
+    },
+    {
+        "index": 367,
+        "truth": "Siapa yang paling sering kamu curhat masalah sehari-hari?"
+    },
+    {
+        "index": 368,
+        "truth": "Apa mimpi yang ingin kamu capai sebelum lulus?"
+    },
+    {
+        "index": 369,
+        "truth": "Apa hal yang paling kamu takutkan tentang penampilanmu?"
+    },
+    {
+        "index": 370,
+        "truth": "Siapa yang paling kamu anggap sebagai motivator utama?"
+    },
+    {
+        "index": 371,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi down berat?"
+    },
+    {
+        "index": 372,
+        "truth": "Apa lagu yang paling menggambarkan persahabatanmu?"
+    },
+    {
+        "index": 373,
+        "truth": "Siapa yang paling kamu harap tahu perasaanmu saat ini?"
+    },
+    {
+        "index": 374,
+        "truth": "Apa hal paling lucu yang pernah terjadi di grup chat?"
+    },
+    {
+        "index": 375,
+        "truth": "Apa yang paling kamu inginkan di hidupmu saat ini?"
+    },
+    {
+        "index": 376,
+        "truth": "Siapa yang paling sering kamu ajak jalan-jalan santai?"
+    },
+    {
+        "index": 377,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi senang?"
+    },
+    {
+        "index": 378,
+        "truth": "Apa yang paling bikin kamu merasa bangga pada diri sendiri?"
+    },
+    {
+        "index": 379,
+        "truth": "Siapa yang paling kamu anggap sebagai keluarga kedua?"
+    },
+    {
+        "index": 380,
+        "truth": "Apa hal yang paling kamu takutkan tentang perubahan hidup?"
+    },
+    {
+        "index": 381,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi malas belajar?"
+    },
+    {
+        "index": 382,
+        "truth": "Siapa yang paling sering bikin kamu mikir positif?"
+    },
+    {
+        "index": 383,
+        "truth": "Apa mimpi yang ingin kamu wujudkan bersama keluarga?"
+    },
+    {
+        "index": 384,
+        "truth": "Apa hal yang paling kamu suka dari hobi terbaru?"
+    },
+    {
+        "index": 385,
+        "truth": "Siapa yang paling kamu harap ada di sampingmu saat susah?"
+    },
+    {
+        "index": 386,
+        "truth": "Apa kebiasaan buruk yang kamu miliki di HP?"
+    },
+    {
+        "index": 387,
+        "truth": "Apa yang paling bikin kamu bahagia di hari biasa?"
+    },
+    {
+        "index": 388,
+        "truth": "Siapa yang paling kamu rindukan dari teman lama?"
+    },
+    {
+        "index": 389,
+        "truth": "Apa hal yang paling kamu banggakan dari sekolah/kampus?"
+    },
+    {
+        "index": 390,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi capek mental?"
+    },
+    {
+        "index": 391,
+        "truth": "Siapa yang paling sering bikin kamu ketawa sampai perut sakit?"
+    },
+    {
+        "index": 392,
+        "truth": "Apa hal yang paling kamu hindari di kehidupan sosial?"
+    },
+    {
+        "index": 393,
+        "truth": "Apa yang paling kamu harapkan dari dirimu sendiri tahun ini?"
+    },
+    {
+        "index": 394,
+        "truth": "Siapa yang paling kamu anggap sebagai inspirasi hidup?"
+    },
+    {
+        "index": 395,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi excited?"
+    },
+    {
+        "index": 396,
+        "truth": "Apa yang paling bikin kamu merasa dicintai oleh teman dekat?"
+    },
+    {
+        "index": 397,
+        "truth": "Siapa yang paling sering kamu curhat masalah sehari-hari?"
+    },
+    {
+        "index": 398,
+        "truth": "Apa mimpi yang ingin kamu capai sebelum lulus?"
+    },
+    {
+        "index": 399,
+        "truth": "Apa hal yang paling kamu takutkan tentang penampilanmu?"
+    },
+    {
+        "index": 400,
+        "truth": "Siapa yang paling kamu anggap sebagai motivator utama?"
+    },
+    {
+        "index": 401,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi down berat?"
+    },
+    {
+        "index": 402,
+        "truth": "Apa lagu yang paling menggambarkan persahabatanmu?"
+    },
+    {
+        "index": 403,
+        "truth": "Siapa yang paling kamu harap tahu perasaanmu saat ini?"
+    },
+    {
+        "index": 404,
+        "truth": "Apa hal paling lucu yang pernah terjadi di grup chat?"
+    },
+    {
+        "index": 405,
+        "truth": "Apa yang paling kamu inginkan di hidupmu saat ini?"
+    },
+    {
+        "index": 406,
+        "truth": "Siapa yang paling sering kamu ajak jalan-jalan santai?"
+    },
+    {
+        "index": 407,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi senang?"
+    },
+    {
+        "index": 408,
+        "truth": "Apa yang paling bikin kamu merasa bangga pada diri sendiri?"
+    },
+    {
+        "index": 409,
+        "truth": "Siapa yang paling kamu anggap sebagai keluarga kedua?"
+    },
+    {
+        "index": 410,
+        "truth": "Apa hal yang paling kamu takutkan tentang perubahan hidup?"
+    },
+    {
+        "index": 411,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi malas belajar?"
+    },
+    {
+        "index": 412,
+        "truth": "Siapa yang paling sering bikin kamu mikir positif?"
+    },
+    {
+        "index": 413,
+        "truth": "Apa mimpi yang ingin kamu wujudkan bersama keluarga?"
+    },
+    {
+        "index": 414,
+        "truth": "Apa hal yang paling kamu suka dari hobi terbaru?"
+    },
+    {
+        "index": 415,
+        "truth": "Siapa yang paling kamu harap ada di sampingmu saat susah?"
+    },
+    {
+        "index": 416,
+        "truth": "Apa kebiasaan buruk yang kamu miliki di HP?"
+    },
+    {
+        "index": 417,
+        "truth": "Apa yang paling bikin kamu bahagia di hari biasa?"
+    },
+    {
+        "index": 418,
+        "truth": "Siapa yang paling kamu rindukan dari teman lama?"
+    },
+    {
+        "index": 419,
+        "truth": "Apa hal yang paling kamu banggakan dari sekolah/kampus?"
+    },
+    {
+        "index": 420,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi capek mental?"
+    },
+    {
+        "index": 421,
+        "truth": "Siapa yang paling sering bikin kamu ketawa sampai perut sakit?"
+    },
+    {
+        "index": 422,
+        "truth": "Apa hal yang paling kamu hindari di kehidupan sosial?"
+    },
+    {
+        "index": 423,
+        "truth": "Apa yang paling kamu harapkan dari dirimu sendiri tahun ini?"
+    },
+    {
+        "index": 424,
+        "truth": "Siapa yang paling kamu anggap sebagai inspirasi hidup?"
+    },
+    {
+        "index": 425,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi excited?"
+    },
+    {
+        "index": 426,
+        "truth": "Apa yang paling bikin kamu merasa dicintai oleh teman dekat?"
+    },
+    {
+        "index": 427,
+        "truth": "Siapa yang paling sering kamu curhat masalah sehari-hari?"
+    },
+    {
+        "index": 428,
+        "truth": "Apa mimpi yang ingin kamu capai sebelum lulus?"
+    },
+    {
+        "index": 429,
+        "truth": "Apa hal yang paling kamu takutkan tentang penampilanmu?"
+    },
+    {
+        "index": 430,
+        "truth": "Siapa yang paling kamu anggap sebagai motivator utama?"
+    },
+    {
+        "index": 431,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi down berat?"
+    },
+    {
+        "index": 432,
+        "truth": "Apa lagu yang paling menggambarkan persahabatanmu?"
+    },
+    {
+        "index": 433,
+        "truth": "Siapa yang paling kamu harap tahu perasaanmu saat ini?"
+    },
+    {
+        "index": 434,
+        "truth": "Apa hal paling lucu yang pernah terjadi di grup chat?"
+    },
+    {
+        "index": 435,
+        "truth": "Apa yang paling kamu inginkan di hidupmu saat ini?"
+    },
+    {
+        "index": 436,
+        "truth": "Siapa yang paling sering kamu ajak jalan-jalan santai?"
+    },
+    {
+        "index": 437,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi senang?"
+    },
+    {
+        "index": 438,
+        "truth": "Apa yang paling bikin kamu merasa bangga pada diri sendiri?"
+    },
+    {
+        "index": 439,
+        "truth": "Siapa yang paling kamu anggap sebagai keluarga kedua?"
+    },
+    {
+        "index": 440,
+        "truth": "Apa hal yang paling kamu takutkan tentang perubahan hidup?"
+    },
+    {
+        "index": 441,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi malas belajar?"
+    },
+    {
+        "index": 442,
+        "truth": "Siapa yang paling sering bikin kamu mikir positif?"
+    },
+    {
+        "index": 443,
+        "truth": "Apa mimpi yang ingin kamu wujudkan bersama keluarga?"
+    },
+    {
+        "index": 444,
+        "truth": "Apa hal yang paling kamu suka dari hobi terbaru?"
+    },
+    {
+        "index": 445,
+        "truth": "Siapa yang paling kamu harap ada di sampingmu saat susah?"
+    },
+    {
+        "index": 446,
+        "truth": "Apa kebiasaan buruk yang kamu miliki di HP?"
+    },
+    {
+        "index": 447,
+        "truth": "Apa yang paling bikin kamu bahagia di hari biasa?"
+    },
+    {
+        "index": 448,
+        "truth": "Siapa yang paling kamu rindukan dari teman lama?"
+    },
+    {
+        "index": 449,
+        "truth": "Apa hal yang paling kamu banggakan dari sekolah/kampus?"
+    },
+    {
+        "index": 450,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi capek mental?"
+    },
+    {
+        "index": 451,
+        "truth": "Siapa yang paling sering bikin kamu ketawa sampai perut sakit?"
+    },
+    {
+        "index": 452,
+        "truth": "Apa hal yang paling kamu hindari di kehidupan sosial?"
+    },
+    {
+        "index": 453,
+        "truth": "Apa yang paling kamu harapkan dari dirimu sendiri tahun ini?"
+    },
+    {
+        "index": 454,
+        "truth": "Siapa yang paling kamu anggap sebagai inspirasi hidup?"
+    },
+    {
+        "index": 455,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi excited?"
+    },
+    {
+        "index": 456,
+        "truth": "Apa yang paling bikin kamu merasa dicintai oleh teman dekat?"
+    },
+    {
+        "index": 457,
+        "truth": "Siapa yang paling sering kamu curhat masalah sehari-hari?"
+    },
+    {
+        "index": 458,
+        "truth": "Apa mimpi yang ingin kamu capai sebelum lulus?"
+    },
+    {
+        "index": 459,
+        "truth": "Apa hal yang paling kamu takutkan tentang penampilanmu?"
+    },
+    {
+        "index": 460,
+        "truth": "Siapa yang paling kamu anggap sebagai motivator utama?"
+    },
+    {
+        "index": 461,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi down berat?"
+    },
+    {
+        "index": 462,
+        "truth": "Apa lagu yang paling menggambarkan persahabatanmu?"
+    },
+    {
+        "index": 463,
+        "truth": "Siapa yang paling kamu harap tahu perasaanmu saat ini?"
+    },
+    {
+        "index": 464,
+        "truth": "Apa hal paling lucu yang pernah terjadi di grup chat?"
+    },
+    {
+        "index": 465,
+        "truth": "Apa yang paling kamu inginkan di hidupmu saat ini?"
+    },
+    {
+        "index": 466,
+        "truth": "Siapa yang paling sering kamu ajak jalan-jalan santai?"
+    },
+    {
+        "index": 467,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi senang?"
+    },
+    {
+        "index": 468,
+        "truth": "Apa yang paling bikin kamu merasa bangga pada diri sendiri?"
+    },
+    {
+        "index": 469,
+        "truth": "Siapa yang paling kamu anggap sebagai keluarga kedua?"
+    },
+    {
+        "index": 470,
+        "truth": "Apa hal yang paling kamu takutkan tentang perubahan hidup?"
+    },
+    {
+        "index": 471,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi malas belajar?"
+    },
+    {
+        "index": 472,
+        "truth": "Siapa yang paling sering bikin kamu mikir positif?"
+    },
+    {
+        "index": 473,
+        "truth": "Apa mimpi yang ingin kamu wujudkan bersama keluarga?"
+    },
+    {
+        "index": 474,
+        "truth": "Apa hal yang paling kamu suka dari hobi terbaru?"
+    },
+    {
+        "index": 475,
+        "truth": "Siapa yang paling kamu harap ada di sampingmu saat susah?"
+    },
+    {
+        "index": 476,
+        "truth": "Apa kebiasaan buruk yang kamu miliki di HP?"
+    },
+    {
+        "index": 477,
+        "truth": "Apa yang paling bikin kamu bahagia di hari biasa?"
+    },
+    {
+        "index": 478,
+        "truth": "Siapa yang paling kamu rindukan dari teman lama?"
+    },
+    {
+        "index": 479,
+        "truth": "Apa hal yang paling kamu banggakan dari sekolah/kampus?"
+    },
+    {
+        "index": 480,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi capek mental?"
+    },
+    {
+        "index": 481,
+        "truth": "Siapa yang paling sering bikin kamu ketawa sampai perut sakit?"
+    },
+    {
+        "index": 482,
+        "truth": "Apa hal yang paling kamu hindari di kehidupan sosial?"
+    },
+    {
+        "index": 483,
+        "truth": "Apa yang paling kamu harapkan dari dirimu sendiri tahun ini?"
+    },
+    {
+        "index": 484,
+        "truth": "Siapa yang paling kamu anggap sebagai inspirasi hidup?"
+    },
+    {
+        "index": 485,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi excited?"
+    },
+    {
+        "index": 486,
+        "truth": "Apa yang paling bikin kamu merasa dicintai oleh teman dekat?"
+    },
+    {
+        "index": 487,
+        "truth": "Siapa yang paling sering kamu curhat masalah sehari-hari?"
+    },
+    {
+        "index": 488,
+        "truth": "Apa mimpi yang ingin kamu capai sebelum lulus?"
+    },
+    {
+        "index": 489,
+        "truth": "Apa hal yang paling kamu takutkan tentang penampilanmu?"
+    },
+    {
+        "index": 490,
+        "truth": "Siapa yang paling kamu anggap sebagai motivator utama?"
+    },
+    {
+        "index": 491,
+        "truth": "Apa yang paling kamu lakukan saat kamu lagi down berat?"
+    },
+    {
+        "index": 492,
+        "truth": "Apa lagu yang paling menggambarkan persahabatanmu?"
+    },
+    {
+        "index": 493,
+        "truth": "Siapa yang paling kamu harap tahu perasaanmu saat ini?"
+    },
+    {
+        "index": 494,
+        "truth": "Apa hal paling lucu yang pernah terjadi di grup chat?"
+    },
+    {
+        "index": 495,
+        "truth": "Apa yang paling kamu inginkan di hidupmu saat ini?"
+    },
+    {
+        "index": 496,
+        "truth": "Siapa yang paling sering kamu ajak jalan-jalan santai?"
+    },
+    {
+        "index": 497,
+        "truth": "Apa kebiasaan yang kamu lakukan saat kamu lagi senang?"
+    },
+    {
+        "index": 498,
+        "truth": "Apa yang paling bikin kamu merasa bangga pada diri sendiri?"
+    },
+    {
+        "index": 499,
+        "truth": "Siapa yang paling kamu anggap sebagai keluarga kedua?"
+    },
+    {
+        "index": 500,
+        "truth": "Apa hal yang paling kamu takutkan tentang perubahan hidup?"
+    }
+]
