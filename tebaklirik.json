@@ -1,5 +1,2505 @@
 [
   {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Fix You - Coldplay"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Kau begitu berarti kau begitu _____",
+    "jawaban": "sempurna",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "I'm in love with the shape of _____",
+    "jawaban": "you",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Sempurna - Andra and The Backbone"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Cinta Luar Biasa - Andmesh"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Tak Ingin Usai - Keisya Levronka"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Look at the stars look how they shine for _____",
+    "jawaban": "you",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Perfect - Ed Sheeran"
+  },
+  {
+    "soal": "Ku kira kita akan bersama sampai _____",
+    "jawaban": "tua",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "I heard that you're _____ now",
+    "jawaban": "settled",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Dan bila nanti kau pergi ku yakin kau kan _____",
+    "jawaban": "kembali",
+    "lagu": "Komang - Raim Laode"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Hati-Hati di Jalan - Tulus"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Aku bukan jodohnya tapi aku tak _____",
+    "jawaban": "rela",
+    "lagu": "Shape of You - Ed Sheeran"
+  },
+  {
+    "soal": "Darling you look perfect _____",
+    "jawaban": "tonight",
+    "lagu": "Someone Like You - Adele"
+  },
+  {
+    "soal": "Cinta ini luar biasa membuatku _____",
+    "jawaban": "bahagia",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
+    "soal": "Lights will guide you _____",
+    "jawaban": "home",
+    "lagu": "Yellow - Coldplay"
+  },
+  {
     "soal": "_____ yang paling indah hanyalah keluarga, istana yang paling indah hanyalah keluarga",
     "jawaban": "harta",
     "lagu": "Harta Berharga - Bunga Citra Lestari"
