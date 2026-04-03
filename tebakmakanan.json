@@ -1,0 +1,932 @@
+[
+  {
+    "img": "https://files.catbox.moe/wtyw6s.jpg",
+    "jawaban": "Rendang",
+    "deskripsi": "Olahan daging sapi dengan bumbu rempah melimpah yang pernah dinobatkan sebagai makanan terenak di dunia. Apa namanya?"
+  },
+  {
+    "img": "https://files.catbox.moe/cxy0g2.jpg",
+    "jawaban": "Sate Lilit",
+    "deskripsi": "Kuliner khas Bali ini terbuat dari daging yang dicincang, dicampur kelapa parut, lalu dililitkan pada batang bambu atau serai. Coba tebak!"
+  },
+  {
+    "img": "https://files.catbox.moe/yl8sqf.png",
+    "jawaban": "Gudeg",
+    "deskripsi": "Makanan manis nan gurih dari nangka muda yang dimasak sangat lama dengan santan. Sangat populer di Yogyakarta."
+  },
+  {
+    "img": "https://files.catbox.moe/yqpm50.png",
+    "jawaban": "Pempek",
+    "deskripsi": "Terbuat dari campuran daging ikan dan sagu, disajikan dengan kuah cuka yang pedas, asam, dan manis. Berasal dari Palembang."
+  },
+  {
+    "img": "https://files.catbox.moe/pf7j0r.png",
+    "jawaban": "Gado-gado",
+    "deskripsi": "Sering dijuluki sebagai salad khas Indonesia, berisi sayuran rebus dengan siraman saus kacang yang kental."
+  },
+  {
+    "img": "https://files.catbox.moe/t9p6xk.png",
+    "jawaban": "Bakso",
+    "deskripsi": "Bola daging kenyal yang disajikan dengan kuah kaldu panas, mie, dan biasanya ada tambahan pangsit. Makanan sejuta umat!"
+  },
+  {
+    "img": "https://files.catbox.moe/000k2y.png",
+    "jawaban": "Nasi Lemak",
+    "deskripsi": "Nasi yang dimasak dengan santan dan daun pandan, biasanya disajikan dengan teri, kacang, dan sambal. Populer di Melayu."
+  },
+  {
+    "img": "https://files.catbox.moe/cudxn3.png",
+    "jawaban": "Sushi",
+    "deskripsi": "Makanan asal Jepang yang terdiri dari nasi cuka dengan berbagai topping seperti ikan mentah atau sayuran."
+  },
+  {
+    "img": "https://files.catbox.moe/sjr5yt.png",
+    "jawaban": "Pizza",
+    "deskripsi": "Roti berbentuk bulat dan pipih yang dipanggang dengan saus tomat, keju mozarella, dan berbagai topping lezat."
+  },
+  {
+    "img": "https://files.catbox.moe/z3moy7.png",
+    "jawaban": "Dimsum",
+    "deskripsi": "Camilan kecil khas Tiongkok yang biasanya dikukus di dalam wadah bambu. Sangat nikmat dimakan saat hangat."
+  },
+  {
+    "img": "https://files.catbox.moe/icql4k.png",
+    "jawaban": "Seblak",
+    "deskripsi": "Jajanan kekinian dari Jawa Barat yang berbahan dasar kerupuk basah dengan aroma kencur yang menyengat."
+  },
+  {
+    "img": "https://files.catbox.moe/mcc1sw.jpg",
+    "jawaban": "Soto Betawi",
+    "deskripsi": "Hidangan berkuah santan atau susu dengan isian daging sapi dan jeroan, khas dari ibu kota Indonesia."
+  },
+  {
+    "img": "https://files.catbox.moe/p71jul.jpg",
+    "jawaban": "Bakpia",
+    "deskripsi": "Kue bulat dengan isian kacang hijau yang menjadi oleh-oleh wajib jika kamu berkunjung ke Yogyakarta."
+  },
+  {
+    "img": "https://files.catbox.moe/kj5g8d.jpg",
+    "jawaban": "Bika Ambon",
+    "deskripsi": "Meskipun namanya mengandung unsur kota lain, kue bertekstur rongga dan kenyal ini sebenarnya berasal dari Medan."
+  },
+  {
+    "img": "https://files.catbox.moe/6b86f4.jpg",
+    "jawaban": "Kebab",
+    "deskripsi": "Daging panggang yang diiris tipis, lalu dibungkus dengan roti tortilla bersama sayuran dan saus."
+  },
+  {
+    "img": "https://files.catbox.moe/xznwit.jpg",
+    "jawaban": "Rawon",
+    "deskripsi": "Sup daging berwarna hitam pekat karena menggunakan bumbu kluwek. Makanan legendaris dari Jawa Timur."
+  },
+  {
+    "img": "https://files.catbox.moe/vfdh56.jpg",
+    "jawaban": "Martabak Manis",
+    "deskripsi": "Roti tebal yang dipanggang di loyang bulat dengan topping cokelat, kacang, atau keju. Di beberapa daerah disebut Terang Bulan."
+  },
+  {
+    "img": "https://files.catbox.moe/t5kqur.jpg",
+    "jawaban": "Lumpia",
+    "deskripsi": "Camilan renyah berisi rebung atau daging ayam, sangat identik dengan kota Semarang."
+  },
+  {
+    "img": "https://files.catbox.moe/o2crtv.jpg",
+    "jawaban": "Ketoprak",
+    "deskripsi": "Campuran ketupat, tahu, bihun, dan tauge yang disiram bumbu kacang cair dengan tambahan kerupuk merah."
+  },
+  {
+    "img": "https://files.catbox.moe/0g5r85.jpg",
+    "jawaban": "Tahu Sumedang",
+    "deskripsi": "Tahu goreng khas yang bagian dalamnya kosong (kopong) namun punya kulit luar yang sangat gurih dan renyah."
+  },
+  {
+    "img": "https://files.catbox.moe/8nqohe.jpg",
+    "jawaban": "Papeda",
+    "deskripsi": "Bubur sagu bertekstur lengket seperti lem, biasanya dimakan dengan kuah kuning ikan. Khas Indonesia Timur."
+  },
+  {
+    "img": "https://files.catbox.moe/gra1rw.jpg",
+    "jawaban": "Sate Padang",
+    "deskripsi": "Sate daging sapi dengan kuah kental berwarna kuning kecokelatan yang kaya akan rempah merica dan cabai."
+  },
+  {
+    "img": "https://files.catbox.moe/kmybyc.jpg",
+    "jawaban": "Pecel Lele",
+    "deskripsi": "Ikan goreng yang disajikan dengan sambal tomat pedas dan lalapan segar. Banyak ditemukan di pinggir jalan malam hari."
+  },
+  {
+    "img": "https://files.catbox.moe/j1m4bn.jpg",
+    "jawaban": "Croissant",
+    "deskripsi": "Roti berbentuk bulan sabit asal Prancis yang memiliki tekstur berlapis-lapis dan sangat renyah."
+  },
+  {
+    "img": "https://files.catbox.moe/wz1c0i.jpg",
+    "jawaban": "Ramen",
+    "deskripsi": "Mie kuah asal Jepang dengan berbagai pilihan kaldu seperti shio, shoyu, atau miso."
+  },
+  {
+    "img": "https://files.catbox.moe/bufi7z.jpg",
+    "jawaban": "Opor Ayam",
+    "deskripsi": "Hidangan ayam kuah santan kuning yang hampir selalu ada di meja makan saat perayaan Hari Raya Idul Fitri."
+  },
+  {
+    "img": "https://files.catbox.moe/of2zs0.jpg",
+    "jawaban": "Serabi",
+    "deskripsi": "Pancake tradisional Indonesia yang terbuat dari tepung beras, bisa disajikan polos, pakai kuah kinca, atau topping kekinian."
+  },
+  {
+    "img": "https://files.catbox.moe/5vxh36.jpg",
+    "jawaban": "Siomay",
+    "deskripsi": "Olahan ikan dan tepung yang dikukus, disajikan bersama tahu, kentang, dan kol, lalu disiram saus kacang."
+  },
+  {
+    "img": "https://files.catbox.moe/fzmmea.jpg",
+    "jawaban": "Sop Buntut",
+    "deskripsi": "Potongan ekor sapi yang dimasak dalam kuah kaldu bening dengan irisan wortel dan kentang."
+  },
+  {
+    "img": "https://files.catbox.moe/0onynb.jpg",
+    "jawaban": "Klepon",
+    "deskripsi": "Kue bulat hijau kenyal berisi gula merah cair yang akan meledak di mulut saat digigit."
+  },
+  {
+    "img": "",
+    "jawaban": "Nasi Kuning",
+    "deskripsi": "Nasi yang berwarna cerah karena kunyit, biasanya dibentuk tumpeng untuk acara syukuran."
+  },
+  {
+    "img": "",
+    "jawaban": "Taco",
+    "deskripsi": "Makanan khas Meksiko berupa tortilla yang dilipat berisi daging, sayuran, dan keju."
+  },
+  {
+    "img": "",
+    "jawaban": "Lontong Sayur",
+    "deskripsi": "Potongan nasi padat yang disajikan dengan kuah santan labu siam atau nangka."
+  },
+  {
+    "img": "",
+    "jawaban": "Nasi Goreng",
+    "deskripsi": "Makanan simpel namun mendunia, dimasak dengan kecap manis dan sering disajikan dengan telur mata sapi."
+  },
+  {
+    "img": "",
+    "jawaban": "Bebek Madura",
+    "deskripsi": "Bebek goreng yang disajikan dengan bumbu hitam pedas dan minyak yang gurih. Sangat menggugah selera."
+  },
+  {
+    "img": "",
+    "jawaban": "Macaron",
+    "deskripsi": "Kue kering mungil berwarna-warni dari Prancis yang terbuat dari putih telur dan tepung almond."
+  },
+  {
+    "img": "",
+    "jawaban": "Steak",
+    "deskripsi": "Potongan daging besar yang dipanggang dengan tingkat kematangan tertentu, disajikan dengan saus dan kentang goreng."
+  },
+  {
+    "img": "",
+    "jawaban": "Kerak Telor",
+    "deskripsi": "Jajanan legendaris dari Jakarta yang terbuat dari beras ketan, telur, dan serundeng gurih."
+  },
+  {
+    "img": "",
+    "jawaban": "Takoyaki",
+    "deskripsi": "Camilan berbentuk bola kecil asal Jepang dengan isian potongan gurita di dalamnya."
+  },
+  {
+    "img": "",
+    "jawaban": "Ayam Betutu",
+    "deskripsi": "Olahan ayam dengan bumbu rempah base genep yang sangat kuat. Ikon kuliner dari Pulau Dewata."
+  },
+  {
+    "img": "",
+    "jawaban": "Lasagna",
+    "deskripsi": "Pasta berbentuk lembaran lebar yang disusun berlapis-lapis dengan saus daging dan keju yang melimpah."
+  },
+  {
+    "img": "",
+    "jawaban": "Burrito",
+    "deskripsi": "Tortilla gandum besar yang digulung rapat dengan isian nasi, kacang-kacangan, dan daging."
+  },
+  {
+    "img": "",
+    "jawaban": "Coto Makassar",
+    "deskripsi": "Sup daging dan jeroan sapi dengan kuah yang kental karena campuran kacang tanah goreng yang dihaluskan."
+  },
+  {
+    "img": "",
+    "jawaban": "Batagor",
+    "deskripsi": "Baso Tahu Goreng, camilan khas Bandung yang disiram saus kacang dan perasan jeruk limau."
+  },
+  {
+    "img": "",
+    "jawaban": "Sate Madura",
+    "deskripsi": "Sate ayam yang dibakar dengan bumbu kacang yang manis dan gurih. Biasanya disajikan dengan lontong."
+  },
+  {
+    "img": "",
+    "jawaban": "Tteokbokki",
+    "deskripsi": "Kue beras pedas yang sangat populer di Korea Selatan, memiliki tekstur kenyal dan saus merah yang kental."
+  },
+  {
+    "img": "",
+    "jawaban": "Cilok",
+    "deskripsi": "Aci Dicolok. Camilan bulat dari tepung tapioka yang kenyal dan biasanya dimakan dengan saus sambal atau bumbu kacang."
+  },
+  {
+    "img": "",
+    "jawaban": "Odading",
+    "deskripsi": "Roti goreng berbentuk kotak dengan tekstur empuk, sempat viral beberapa waktu lalu karena seorang penjual di Bandung."
+  },
+  {
+    "img": "",
+    "jawaban": "Mie Aceh",
+    "deskripsi": "Mie kuning tebal dengan bumbu rempah pedas yang sangat kuat, biasanya disajikan dengan daging kambing atau kepiting."
+  },
+  {
+    "img": "",
+    "jawaban": "Waffle",
+    "deskripsi": "Kue bermotif kotak-kotak yang dimasak di antara dua piring besi panas, biasanya disajikan dengan sirup mapel atau es krim."
+  },
+  {
+    "img": "",
+    "jawaban": "Soto Lamongan",
+    "deskripsi": "Soto ayam dengan ciri khas bubuk koya yang gurih dan potongan daging ayam kampung."
+  },
+  {
+    "img": "",
+    "jawaban": "Onigiri",
+    "deskripsi": "Nasi kepal asal Jepang berbentuk segitiga yang dibungkus dengan rumput laut kering (nori)."
+  },
+  {
+    "img": "",
+    "jawaban": "Dakgalbi",
+    "deskripsi": "Ayam tumis pedas asal Korea yang dimasak dengan saus gochujang, sayuran, dan tteok."
+  },
+  {
+    "img": "",
+    "jawaban": "Nacho",
+    "deskripsi": "Keripik tortilla yang disiram saus keju cair dan topping jalapeno atau daging cincang."
+  },
+  {
+    "img": "",
+    "jawaban": "Bebek Sinjay",
+    "deskripsi": "Olahan bebek goreng legendaris dari Bangkalan, Madura, yang disajikan dengan sambal mangga muda."
+  },
+  {
+    "img": "",
+    "jawaban": "Tahu Gejrot",
+    "deskripsi": "Potongan tahu pong dengan siraman kuah pedas manis dari bawang merah, cabai, dan gula merah. Khas Cirebon."
+  },
+  {
+    "img": "",
+    "jawaban": "Pastel",
+    "deskripsi": "Gorengan berbentuk setengah lingkaran dengan pinggiran bergelombang, berisi wortel, kentang, dan bihun."
+  },
+  {
+    "img": "",
+    "jawaban": "Lontong Kupang",
+    "deskripsi": "Makanan khas Jawa Timur yang berisi kerang kecil (kupang) dengan bumbu petis dan perasan jeruk nipis."
+  },
+  {
+    "img": "",
+    "jawaban": "Spaghetti",
+    "deskripsi": "Pasta panjang seperti tali yang paling terkenal, biasanya dimasak dengan saus bolognese atau carbonara."
+  },
+  {
+    "img": "",
+    "jawaban": "Cumi Hitam",
+    "deskripsi": "Olahan cumi yang dimasak bersama tintanya sendiri hingga berwarna gelap dan bercita rasa gurih."
+  },
+  {
+    "img": "",
+    "jawaban": "Empal Gentong",
+    "deskripsi": "Sup daging sapi khas Cirebon yang dimasak di dalam periuk tanah liat (gentong) dengan kuah santan."
+  },
+  {
+    "img": "",
+    "jawaban": "Mochi",
+    "deskripsi": "Kue kenyal dari tepung ketan berisi kacang tanah, berasal dari Jepang namun populer sebagai oleh-oleh Sukabumi."
+  },
+  {
+    "img": "",
+    "jawaban": "Bakwan",
+    "deskripsi": "Gorengan sayuran (kol, wortel, tauge) yang dicampur tepung terigu. Nama lainnya adalah Bala-bala di Jawa Barat."
+  },
+  {
+    "img": "",
+    "jawaban": "Churros",
+    "deskripsi": "Donat khas Spanyol berbentuk panjang bergerigi yang digoreng dan ditaburi bubuk kayu manis dan gula pasir."
+  },
+  {
+    "img": "",
+    "jawaban": "Hotdog",
+    "deskripsi": "Sosis panjang yang diletakkan di dalam roti sobek panjang, biasanya diberi mustard dan saus tomat."
+  },
+  {
+    "img": "",
+    "jawaban": "Karedok",
+    "deskripsi": "Mirip gado-gado, tapi semua sayurannya dalam keadaan mentah dan menggunakan bumbu kacang kencur."
+  },
+  {
+    "img": "",
+    "jawaban": "Dorayaki",
+    "deskripsi": "Kue kesukaan karakter kartun Doraemon, berbentuk dua lembar pancake bulat yang disatukan dengan isian kacang merah."
+  },
+  {
+    "img": "",
+    "jawaban": "Tom Yam",
+    "deskripsi": "Sup asam pedas khas Thailand yang biasanya berisi makanan laut seperti udang dan cumi."
+  },
+  {
+    "img": "",
+    "jawaban": "Soto Kudus",
+    "deskripsi": "Soto yang disajikan dalam mangkuk kecil dengan isian daging kerbau atau ayam, tanpa menggunakan santan."
+  },
+  {
+    "img": "",
+    "jawaban": "Asinan Bogor",
+    "deskripsi": "Potongan buah atau sayur yang direndam dalam kuah cuka cabai pedas asam, sangat menyegarkan."
+  },
+  {
+    "img": "",
+    "jawaban": "Bibimbap",
+    "deskripsi": "Nasi campur ala Korea yang berisi berbagai sayuran, daging, telur, dan saus gochujang."
+  },
+  {
+    "img": "",
+    "jawaban": "Fish and Chips",
+    "deskripsi": "Makanan klasik dari Inggris yang terdiri dari ikan goreng tepung renyah dan kentang goreng potong tebal."
+  },
+  {
+    "img": "",
+    "jawaban": "Garang Asem",
+    "deskripsi": "Olahan ayam berkuah santan segar dengan potongan belimbing wuluh, dibungkus menggunakan daun pisang lalu dikukus."
+  },
+  {
+    "img": "",
+    "jawaban": "Kimchi",
+    "deskripsi": "Sawi putih atau lobak yang difermentasi dengan bubuk cabai dan bawang putih. Pendamping wajib makanan Korea."
+  },
+  {
+    "img": "",
+    "jawaban": "Otak-otak",
+    "deskripsi": "Daging ikan yang dicampur tepung dan bumbu, dibungkus daun pisang memanjang, lalu dibakar di atas arang."
+  },
+  {
+    "img": "",
+    "jawaban": "Risoles",
+    "deskripsi": "Camilan berkulit tepung panir renyah dengan isian sayuran, daging, atau mayones telur di dalamnya."
+  },
+  {
+    "img": "",
+    "jawaban": "Pancake",
+    "deskripsi": "Kue dadar berbentuk bulat datar yang dimasak di atas teflon, biasanya dimakan untuk sarapan."
+  },
+  {
+    "img": "",
+    "jawaban": "Sop Saudara",
+    "deskripsi": "Hidangan berkuah khas Sulawesi Selatan (Pangkep) berisi daging sapi, bihun, dan perkedel kentang."
+  },
+  {
+    "img": "",
+    "jawaban": "Kwetiau",
+    "deskripsi": "Mie pipih berwarna putih bening yang terbuat dari beras, bisa dimasak goreng maupun siram."
+  },
+  {
+    "img": "",
+    "jawaban": "Donat",
+    "deskripsi": "Roti berbentuk cincin dengan lubang di tengahnya, biasanya diberi topping cokelat meses atau gula halus."
+  },
+  {
+    "img": "",
+    "jawaban": "Molen",
+    "deskripsi": "Pisang yang dibalut dengan lilitan adonan tepung tipis lalu digoreng hingga renyah."
+  },
+  {
+    "img": "",
+    "jawaban": "Soto Banjar",
+    "deskripsi": "Soto khas Kalimantan Selatan yang menggunakan kayu manis dan rempah lainnya, disajikan dengan perkedel dan ketupat."
+  },
+  {
+    "img": "",
+    "jawaban": "Lekker",
+    "deskripsi": "Mirip crepes, jajanan pinggir jalan ini bertekstur tipis garing dengan isian pisang, cokelat, atau keju."
+  },
+  {
+    "img": "",
+    "jawaban": "Burger",
+    "deskripsi": "Roti bun bulat berisi daging patty, selada, keju, dan saus. Sangat identik dengan budaya makan Amerika."
+  },
+  {
+    "img": "",
+    "jawaban": "Capcay",
+    "deskripsi": "Tumisan berbagai macam sayuran dengan bumbu bawang putih dan sedikit kental. Menu sehat dari Tiongkok."
+  },
+  {
+    "img": "",
+    "jawaban": "Kolak",
+    "deskripsi": "Menu buka puasa favorit berisi pisang, ubi, atau biji salak yang dimasak dengan kuah santan dan gula merah."
+  },
+  {
+    "img": "",
+    "jawaban": "Tahu Campur",
+    "deskripsi": "Makanan khas Jawa Timur berisi tahu, daging, perkedel singkong (lentho), dan tauge dengan bumbu petis."
+  },
+  {
+    "img": "",
+    "jawaban": "Fettuccine",
+    "deskripsi": "Jenis pasta lebar dan pipih, sering disajikan dengan saus kental seperti Alfredo."
+  },
+  {
+    "img": "",
+    "jawaban": "Rujak Cingur",
+    "deskripsi": "Salad tradisional Jawa Timur yang menggunakan irisan mulut sapi (cingur) sebagai bahan utamanya."
+  },
+  {
+    "img": "",
+    "jawaban": "Brownies",
+    "deskripsi": "Kue cokelat bantat dengan tekstur padat dan permukaan yang mengkilap retak, bisa dipanggang atau dikukus."
+  },
+  {
+    "img": "",
+    "jawaban": "Sate Kambing",
+    "deskripsi": "Daging kambing yang dibakar, biasanya disajikan dengan bumbu kecap irisan bawang merah dan cabai rawit."
+  },
+  {
+    "img": "",
+    "jawaban": "Mie Gacoan",
+    "deskripsi": "Brand mie pedas kekinian yang sangat viral dan memiliki level pedas yang menantang."
+  },
+  {
+    "img": "",
+    "jawaban": "Lemper",
+    "deskripsi": "Nasi ketan berisi ayam atau abon yang dibungkus daun pisang, biasanya hadir di acara hajatan."
+  },
+  {
+    "img": "",
+    "jawaban": "Dadar Gulung",
+    "deskripsi": "Kue basah tradisional berwarna hijau berisi parutan kelapa yang dimasak dengan gula merah (unti)."
+  },
+  {
+    "img": "",
+    "jawaban": "Kimlo",
+    "deskripsi": "Sup bening berisi jamur kuping, bunga sedap malam, soun, dan irisan daging ayam."
+  },
+  {
+    "img": "",
+    "jawaban": "Nasi Liwet",
+    "deskripsi": "Nasi gurih khas Solo atau Sunda yang dimasak dengan santan, daun salam, dan batang serai."
+  },
+  {
+    "img": "",
+    "jawaban": "Gyoza",
+    "deskripsi": "Pangsit asal Jepang berisi daging cincang dan sayuran, biasanya dimasak dengan satu sisi digoreng dan sisi lain dikukus."
+  },
+  {
+    "img": "",
+    "jawaban": "Martabak Telur",
+    "deskripsi": "Adonan kulit ditarik tipis, diisi campuran telur, daging, dan daun bawang, lalu digoreng di wajan datar."
+  },
+  {
+    "img": "",
+    "jawaban": "Es Pisang Ijo",
+    "deskripsi": "Pisang yang dibalut adonan tepung hijau, disajikan dengan bubur sumsum, sirup merah, dan es serut."
+  },
+  {
+    "img": "",
+    "jawaban": "Corndog",
+    "deskripsi": "Sosis atau mozarella yang dibalut adonan tepung tebal lalu digoreng, jajanan yang sangat populer dari Korea."
+  },
+  {
+    "img": "",
+    "jawaban": "Bolu Kukus",
+    "deskripsi": "Kue manis berbentuk seperti bunga yang mekar dengan tekstur sangat empuk dan ringan."
+  },
+  {
+    "img": "",
+    "jawaban": "Soto Medan",
+    "deskripsi": "Soto dengan kuah santan kuning kental yang kaya rempah, biasanya menggunakan udang atau daging sapi."
+  },
+  {
+    "img": "",
+    "jawaban": "Tengkleng",
+    "deskripsi": "Masakan khas Solo berupa sup tulang kambing dengan kuah encer gurih mirip gulai namun lebih ringan."
+  },
+  {
+    "img": "",
+    "jawaban": "Puding",
+    "deskripsi": "Makanan penutup bertekstur lembut dan kenyal, biasanya terbuat dari agar-agar atau susu."
+  },
+  {
+    "img": "",
+    "jawaban": "Nasi Pecel",
+    "deskripsi": "Nasi dengan aneka sayuran yang disiram sambal kacang pedas, biasanya ditambah rempeyek renyah."
+  },
+  {
+    "img": "",
+    "jawaban": "Jengkol Balado",
+    "deskripsi": "Olahan biji tanaman beraroma khas yang dimasak dengan bumbu cabai merah pedas."
+  },
+  {
+    "img": "",
+    "jawaban": "Sop Iga",
+    "deskripsi": "Sup kuah bening dengan bahan utama tulang iga sapi yang berdaging tebal."
+  },
+  {
+    "img": "",
+    "jawaban": "Bakmi GM",
+    "deskripsi": "Restoran bakmi legendaris di Indonesia yang terkenal dengan pangsit gorengnya yang khas."
+  },
+  {
+    "img": "",
+    "jawaban": "Oncom",
+    "deskripsi": "Produk fermentasi mirip tempe namun menggunakan kapang yang berbeda, sangat populer di Jawa Barat."
+  },
+  {
+    "img": "",
+    "jawaban": "Sate Taichan",
+    "deskripsi": "Sate ayam yang dibakar polos tanpa bumbu kacang, disajikan hanya dengan sambal cabai rawit yang sangat pedas."
+  },
+  {
+    "img": "",
+    "jawaban": "Ondeh-ondeh",
+    "deskripsi": "Kue bulat berlapis wijen dengan isian kacang hijau manis di dalamnya."
+  },
+  {
+    "img": "",
+    "jawaban": "Peyeum",
+    "deskripsi": "Tape singkong khas Bandung yang difermentasi utuh sehingga teksturnya agak keras di luar namun manis di dalam."
+  },
+  {
+    "img": "",
+    "jawaban": "Soto Tangkar",
+    "deskripsi": "Soto khas Betawi yang menggunakan iga sapi dengan kuah santan berwarna kemerahan."
+  },
+  {
+    "img": "",
+    "jawaban": "Laksa",
+    "deskripsi": "Mie berkuah kental pedas hasil perpaduan budaya Melayu dan Tionghoa."
+  },
+  {
+    "img": "",
+    "jawaban": "Kue Cubit",
+    "deskripsi": "Kue mungil yang dimasak di cetakan besi, paling enak dimakan saat bagian tengahnya masih setengah matang."
+  },
+  {
+    "img": "",
+    "jawaban": "Telur Balado",
+    "deskripsi": "Telur rebus yang digoreng lalu dimasak dengan bumbu sambal merah pedas."
+  },
+  {
+    "img": "",
+    "jawaban": "Klapertart",
+    "deskripsi": "Kue khas Manado yang bahan utamanya adalah kelapa muda, susu, dan telur."
+  },
+  {
+    "img": "",
+    "jawaban": "Emping Melinjo",
+    "deskripsi": "Kerupuk pipih yang terbuat dari biji melinjo, rasanya sedikit pahit namun sangat gurih."
+  },
+  {
+    "img": "",
+    "jawaban": "Mie Ayam",
+    "deskripsi": "Mie yang disajikan dengan potongan ayam berbumbu kecap dan kuah kaldu terpisah."
+  },
+  {
+    "img": "",
+    "jawaban": "Bakwan Malang",
+    "deskripsi": "Variasi bakso yang lebih lengkap dengan tambahan pangsit goreng, tahu, dan mie."
+  },
+  {
+    "img": "",
+    "jawaban": "Getuk",
+    "deskripsi": "Camilan tradisional dari singkong yang dihaluskan, biasanya diberi pewarna warna-warni dan taburan kelapa."
+  },
+  {
+    "img": "",
+    "jawaban": "Lapis Legit",
+    "deskripsi": "Kue premium dengan banyak lapisan tipis yang membutuhkan waktu lama untuk dipanggang satu persatu."
+  },
+  {
+    "img": "",
+    "jawaban": "Roti Bakar",
+    "deskripsi": "Roti tawar yang dipanggang dengan mentega dan diberi isian cokelat, keju, atau selai."
+  },
+  {
+    "img": "",
+    "jawaban": "Buras",
+    "deskripsi": "Makanan mirip lontong namun lebih pipih dan dimasak dengan santan, khas dari Sulawesi Selatan."
+  },
+  {
+    "img": "",
+    "jawaban": "Tahu Tek",
+    "deskripsi": "Hidangan tahu goreng, telur, dan kentang yang dipotong-potong menggunakan gunting dengan bumbu petis kental."
+  },
+  {
+    "img": "",
+    "jawaban": "Ayam Geprek",
+    "deskripsi": "Ayam goreng tepung yang ditumbuk bersama sambal bawang pedas di atas cobek."
+  },
+  {
+    "img": "",
+    "jawaban": "Ekkado",
+    "deskripsi": "Olahan daging ikan atau ayam dengan telur puyuh di dalamnya, dibungkus kulit tahu dan diikat daun kucai."
+  },
+  {
+    "img": "",
+    "jawaban": "Zuppa Soup",
+    "deskripsi": "Sup krim kental yang disajikan di mangkuk dengan penutup adonan pastry renyah di atasnya."
+  },
+  {
+    "img": "",
+    "jawaban": "Quesadilla",
+    "deskripsi": "Makanan Meksiko berupa dua lembar tortilla yang diisi keju dan daging lalu dipanggang rata."
+  },
+  {
+    "img": "",
+    "jawaban": "Lumpia Basah",
+    "deskripsi": "Variasi lumpia khas Bandung yang tidak digoreng, menggunakan bengkuang masak gula merah."
+  },
+  {
+    "img": "",
+    "jawaban": "Bakpao",
+    "deskripsi": "Roti kukus putih yang empuk dengan berbagai isian seperti daging, kacang hijau, atau cokelat."
+  },
+  {
+    "img": "",
+    "jawaban": "Sayur Asem",
+    "deskripsi": "Sayur berkuah bening dengan rasa asam segar dari asam jawa, berisi jagung, kacang panjang, dan melinjo."
+  },
+  {
+    "img": "",
+    "jawaban": "Nasi Bogana",
+    "deskripsi": "Nasi khas Tegal yang dibungkus daun pisang dengan aneka lauk seperti ayam suwir dan telur pindang."
+  },
+  {
+    "img": "",
+    "jawaban": "Cenil",
+    "deskripsi": "Jajanan pasar berwarna-warni dari tepung kanji yang kenyal, dimakan dengan parutan kelapa dan gula pasir."
+  },
+  {
+    "img": "",
+    "jawaban": "Kupat Tahu",
+    "deskripsi": "Campuran ketupat dan tahu goreng yang disiram bumbu kacang encer, populer di Magelang dan Bandung."
+  },
+  {
+    "img": "",
+    "jawaban": "Mangut Lele",
+    "deskripsi": "Lele yang diasap kemudian dimasak dengan kuah santan pedas. Khas dari daerah Jawa Tengah."
+  },
+  {
+    "img": "",
+    "jawaban": "Bibim Naengmyeon",
+    "deskripsi": "Mie dingin ala Korea yang disajikan dengan saus pedas, sangat populer saat musim panas."
+  },
+  {
+    "img": "",
+    "jawaban": "Kue Putu",
+    "deskripsi": "Kue dari tepung beras berisi gula jawa yang dimasak dengan uap bambu, bunyinya sangat khas seperti peluit."
+  },
+  {
+    "img": "",
+    "jawaban": "Es Doger",
+    "deskripsi": "Es serut berwarna pink dengan isian ketan hitam, alpukat, kelapa, dan pacar cina."
+  },
+  {
+    "img": "",
+    "jawaban": "Semur Daging",
+    "deskripsi": "Olahan daging sapi dengan kuah cokelat pekat dari kecap manis dan bumbu pala."
+  },
+  {
+    "img": "",
+    "jawaban": "Kalio",
+    "deskripsi": "Tahapan masakan sebelum menjadi rendang, kuahnya masih agak encer dan berwarna cokelat muda."
+  },
+  {
+    "img": "",
+    "jawaban": "Keripik Kaca",
+    "deskripsi": "Camilan sangat tipis transparan dari singkong yang dibumbui pedas daun jeruk."
+  },
+  {
+    "img": "",
+    "jawaban": "Soto Mie",
+    "deskripsi": "Soto khas Bogor yang berisi mie kuning, risol, daging sapi, dan potongan tomat segar."
+  },
+  {
+    "img": "",
+    "jawaban": "Penyetan",
+    "deskripsi": "Aneka lauk (ayam, tahu, tempe) yang dipenyet di atas sambal pedas segar."
+  },
+  {
+    "img": "",
+    "jawaban": "Kue Sus",
+    "deskripsi": "Kue berbentuk bundar berongga yang diisi dengan vla lembut beraroma vanilla."
+  },
+  {
+    "img": "",
+    "jawaban": "Cimol",
+    "deskripsi": "Aci Digemol. Tepung kanji bulat kecil yang digoreng dan ditaburi bumbu bubuk aneka rasa."
+  },
+  {
+    "img": "",
+    "jawaban": "Roti Buaya",
+    "deskripsi": "Roti berbentuk replika hewan yang wajib ada dalam seserahan pernikahan adat Betawi."
+  },
+  {
+    "img": "",
+    "jawaban": "Sop Matahari",
+    "deskripsi": "Sup khas Solo yang isiannya disusun menyerupai bunga matahari di dalam mangkuk."
+  },
+  {
+    "img": "",
+    "jawaban": "Nasi Kucing",
+    "deskripsi": "Porsi nasi kecil dengan sedikit lauk sambal teri atau bandeng, khas angkringan."
+  },
+  {
+    "img": "",
+    "jawaban": "Lontong Cap Go Meh",
+    "deskripsi": "Hidangan lontong lengkap yang disajikan saat perayaan 15 hari setelah Imlek."
+  },
+  {
+    "img": "",
+    "jawaban": "Asinan Betawi",
+    "deskripsi": "Asinan sayur dengan siraman bumbu kacang dan kerupuk mie kuning yang besar."
+  },
+  {
+    "img": "",
+    "jawaban": "Wajik",
+    "deskripsi": "Kue tradisional dari ketan yang dimasak dengan gula merah hingga manis dan lengket."
+  },
+  {
+    "img": "",
+    "jawaban": "Wingko Babat",
+    "deskripsi": "Kue panggang berbahan kelapa muda dan ketan, sangat terkenal sebagai oleh-oleh Semarang."
+  },
+  {
+    "img": "",
+    "jawaban": "Sate Maranggi",
+    "deskripsi": "Sate daging sapi atau kerbau khas Purwakarta yang dagingnya sudah dibumbui sebelum dibakar."
+  },
+  {
+    "img": "",
+    "jawaban": "Kue Ape",
+    "deskripsi": "Pancake tradisional Betawi yang bagian tengahnya empuk menonjol sedangkan pinggirannya garing."
+  },
+  {
+    "img": "",
+    "jawaban": "Ayam Kremes",
+    "deskripsi": "Ayam goreng yang disajikan dengan taburan tepung goreng renyah yang melimpah."
+  },
+  {
+    "img": "",
+    "jawaban": "Cireng",
+    "deskripsi": "Aci Digoreng. Tepung kanji goreng yang kenyal, biasanya dimakan dengan bumbu rujak."
+  },
+  {
+    "img": "",
+    "jawaban": "Nasi Tutug Oncom",
+    "deskripsi": "Nasi yang diaduk dengan oncom goreng atau bakar, kuliner khas dari Tasikmalaya."
+  },
+  {
+    "img": "",
+    "jawaban": "Tempura",
+    "deskripsi": "Makanan Jepang berupa sayuran atau seafood yang dibalur adonan tepung lalu digoreng sangat renyah."
+  },
+  {
+    "img": "",
+    "jawaban": "Dendeng Balado",
+    "deskripsi": "Irisan daging sapi tipis yang dikeringkan lalu digoreng dan diberi bumbu sambal merah."
+  },
+  {
+    "img": "",
+    "jawaban": "Gulai Kambing",
+    "deskripsi": "Masakan kambing berkuah santan kental dengan rempah-rempah yang tajam."
+  },
+  {
+    "img": "",
+    "jawaban": "Es Teler",
+    "deskripsi": "Minuman berisi alpukat, nangka, dan kelapa muda dengan siraman susu kental manis."
+  },
+  {
+    "img": "",
+    "jawaban": "Kue Mangkok",
+    "deskripsi": "Kue tradisional yang dikukus dan merekah di atasnya, biasanya berwarna merah muda cerah."
+  },
+  {
+    "img": "",
+    "jawaban": "Mie Instan",
+    "deskripsi": "Makanan penyelamat akhir bulan yang bisa dimasak hanya dalam waktu 3 menit."
+  },
+  {
+    "img": "",
+    "jawaban": "Soto Sokaraja",
+    "deskripsi": "Soto khas Banyumas yang menggunakan bumbu kacang dan disajikan dengan kerupuk warna-warni."
+  },
+  {
+    "img": "",
+    "jawaban": "Basreng",
+    "deskripsi": "Bakso Goreng yang diiris tipis-tipis lalu digoreng kering dan diberi bumbu pedas daun jeruk."
+  },
+  {
+    "img": "",
+    "jawaban": "Telur Asin",
+    "deskripsi": "Telur bebek yang diawetkan dengan garam, sangat terkenal berasal dari Brebes."
+  },
+  {
+    "img": "",
+    "jawaban": "Kue Pancong",
+    "deskripsi": "Kue berbahan kelapa parut dan tepung beras yang dimasak di cetakan khusus, mirip kue rangi."
+  },
+  {
+    "img": "",
+    "jawaban": "Ayam Taliwang",
+    "deskripsi": "Ayam bakar khas Lombok yang rasanya sangat pedas dan aromanya sangat kuat."
+  },
+  {
+    "img": "",
+    "jawaban": "Sop Konro",
+    "deskripsi": "Sup iga sapi khas Makassar dengan kuah berwarna cokelat kehitaman dari kluwek."
+  },
+  {
+    "img": "",
+    "jawaban": "Nasi Ulam",
+    "deskripsi": "Nasi khas Betawi yang dicampur dengan serundeng kelapa dan berbagai macam lauk."
+  },
+  {
+    "img": "",
+    "jawaban": "Poffertjes",
+    "deskripsi": "Kue pancake kecil-kecil khas Belanda yang biasanya disajikan dengan mentega dan gula halus."
+  },
+  {
+    "img": "",
+    "jawaban": "Cipuk",
+    "deskripsi": "Cireng Kerupuk. Camilan khas Jawa Barat yang terbuat dari sisa kerupuk yang dihancurkan dan diolah kembali."
+  },
+  {
+    "img": "",
+    "jawaban": "Roti Maryam",
+    "deskripsi": "Roti pipih berlapis-lapis khas Timur Tengah, sering dimakan dengan gulai atau gula pasir."
+  },
+  {
+    "img": "",
+    "jawaban": "Soto Boyolali",
+    "deskripsi": "Soto kuah bening segar dengan isian daging sapi atau ayam, terkenal dengan sebutan Soto Seger."
+  },
+  {
+    "img": "",
+    "jawaban": "Plecing Kangkung",
+    "deskripsi": "Kangkung rebus yang disajikan dengan sambal tomat terasi pedas, pendamping Ayam Taliwang."
+  },
+  {
+    "img": "",
+    "jawaban": "Kue Lupis",
+    "deskripsi": "Ketan putih berbentuk segitiga yang dibungkus daun pisang, disajikan dengan parutan kelapa dan juruh."
+  },
+  {
+    "img": "",
+    "jawaban": "Talam",
+    "deskripsi": "Kue basah berlapis dua, biasanya lapisan bawah gurih dan lapisan atas manis."
+  },
+  {
+    "img": "",
+    "jawaban": "Mie Kocok",
+    "deskripsi": "Mie khas Bandung yang disajikan dengan kuah kaldu sapi kental dan potongan kikil kenyal."
+  },
+  {
+    "img": "",
+    "jawaban": "Pindang Patin",
+    "deskripsi": "Olahan ikan patin dengan kuah bening segar asam pedas, kuliner andalan Sumatera Selatan."
+  },
+  {
+    "img": "",
+    "jawaban": "Keripik Sanjai",
+    "deskripsi": "Keripik singkong khas Bukittinggi yang dilumuri bumbu pedas manis merah yang kental."
+  },
+  {
+    "img": "",
+    "jawaban": "Dodol",
+    "deskripsi": "Camilan manis lengket yang proses pembuatannya diaduk sangat lama, sangat terkenal dari Garut."
+  },
+  {
+    "img": "",
+    "jawaban": "Kue Semprit",
+    "deskripsi": "Kue kering lebaran yang dibentuk menggunakan spuit sehingga menyerupai bunga mawar."
+  },
+  {
+    "img": "",
+    "jawaban": "Nastar",
+    "deskripsi": "Kue kering berbentuk bulat kecil yang berisi selai nanas, ikon wajib saat hari raya."
+  },
+  {
+    "img": "",
+    "jawaban": "Kastengel",
+    "deskripsi": "Kue kering berbahan dasar keju yang rasanya sangat gurih dan asin."
+  },
+  {
+    "img": "",
+    "jawaban": "Soto Ayam",
+    "deskripsi": "Hidangan berkuah kuning dengan sohun, tauge, dan suwiran ayam. Hampir tiap daerah punya versinya."
+  }
+]
